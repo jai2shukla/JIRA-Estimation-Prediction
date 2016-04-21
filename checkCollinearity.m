@@ -1,3 +1,4 @@
+% testing
 setdbprefs('DataReturnFormat', 'dataset');
 setdbprefs('NullNumberRead', 'NaN');
 setdbprefs('NullStringRead', 'null');
