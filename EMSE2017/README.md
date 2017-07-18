@@ -4,6 +4,8 @@
 
 **Dataset**
 
-We collected data (past issues) from eight open source projects: Apache, Duraspace, Java.net, JBoss, JIRA, Moodle, Mulesoft, and WSO2. We extracted 
+We collected data (past issues) from eight open source projects: Apache, Duraspace, Java.net, JBoss, JIRA, Moodle, Mulesoft, and WSO2. We extracted 19 risk factors (i.e. features) from issues. The feature extraction is corresponded with three prediction times: at the end of discussion time, at a time when a deadline (e.g. due date) was assigned to an issue, and at the creation time of an issue. The impact (i.e. dependent variable) is classified into three levles: high, medium, and low (including non-delay). 
 
-The following are the datasets in CSV files that we used in our experiments. Each dataset consists of three prediction times that extracted from the issues: at the creation time of an issue, at the time when a deadline (e.g. due date) was assigned to an issue, and at the end of discussion time
+**Source code**
+
+We implemented our model on Matlab. The source code of the classifiers and the feature selections are provided.
