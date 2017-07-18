@@ -1,4 +1,4 @@
-**These are the datasets and source code for our paper entitled "Predicting the delay of issues with due dates in software projects".**
+# These are the datasets and source code for our paper entitled "Predicting the delay of issues with due dates in software projects".
 
 *[1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Predicting the delay of issues with due dates in software projects,” Empir. Softw. Eng., vol. 22, no. 3, pp. 1223–1263, 2017.*
 
