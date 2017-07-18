@@ -1,0 +1,1669 @@
+idissuelink,issuekey,linkedIssueKey,name
+1,ANERDS-163,ANERDS-9,is cloned from
+2,ANERDS-291,ANERDS-4704,was cloned as
+3,ANERDS-32,ANERDS-182,blocks
+4,ANERDS-33,ANERDS-203,derived from
+5,ANERDS-4704,ANERDS-291,is cloned from
+6,ANERDS-4893,ANERDS-9,is cloned from
+7,ANERDS-63,ANERDS-14,duplicates
+8,ANERDS-8,ANERDS-27,is caused by
+9,ANERDS-9,ANERDS-4893,was cloned as
+10,ANERDS-9,ANERDS-163,was cloned as
+11,BAM-10580,BAM-13757,is duplicated by
+12,BAM-10947,BAM-12840,relates to
+13,BAM-10947,BAM-10948,is related to
+14,BAM-11250,BAM-11021,incorporates
+15,BAM-11680,BAM-11774,is duplicated by
+16,BAM-11774,BAM-11680,duplicates
+17,BAM-13489,BAM-13703,Testing discovered
+18,BAM-13512,BAM-8259,is duplicated by
+19,BAM-13512,BAM-9121,is duplicated by
+20,BAM-13512,BAM-11961,is duplicated by
+21,BAM-13512,BAM-13522,is related to
+22,BAM-13588,BAM-13726,duplicates
+23,BAM-13588,BAM-14824,is related to
+24,BAM-13757,BAM-10580,duplicates
+25,BAM-13927,BAM-13788,relates to
+26,BAM-5379,BAM-11411,is blocked by
+27,BAM-7354,BAM-2683,duplicates
+28,BAM-9121,BAM-13512,duplicates
+29,BON-1775,BON-1642,is cloned from
+30,BON-1827,GHS-8716,is cloned from
+31,BON-1828,BON-1905,has a derivative of
+32,BON-1853,BON-1858,is duplicated by
+33,BON-1872,GHS-9730,is related to
+34,BON-1888,BON-1990,causes
+35,BON-1888,BON-1914,duplicates
+36,BON-1888,BON-1957,is duplicated by
+37,BON-1888,BON-1916,is duplicated by
+38,BON-1888,BON-1913,is related to
+39,BON-1888,BON-1640,is related to
+40,BON-1895,BON-1902,is duplicated by
+41,BON-1895,BON-1929,has a regression in
+42,BON-1905,BON-1828,derived from
+43,BON-1923,BON-1924,is related to
+44,BON-1924,BON-1923,relates to
+45,BON-1955,BON-1964,is related to
+46,CONF-11467,CONF-16477,incorporates
+47,CONF-11467,TEAMCAL-682,is related to
+48,CONF-11467,CONF-14104,is related to
+49,CONF-11467,CONF-16163,is related to
+50,CONF-11467,CONF-16477,is related to
+51,CONF-13798,CONF-31675,causes
+52,CONF-13798,CONF-18085,causes
+53,CONF-13798,CONF-12947,is related to
+54,CONF-16477,CONF-32702,blocks
+55,CONF-16477,CONF-21166,is duplicated by
+56,CONF-16477,CONF-23177,is duplicated by
+57,CONF-16477,CONF-6160,is duplicated by
+58,CONF-16477,CONF-16486,is duplicated by
+59,CONF-16477,CONF-16163,incorporates
+60,CONF-16477,CONF-20941,incorporates
+61,CONF-16477,CONF-11467,is incorporated by
+62,CONF-16477,CONF-27372,relates to
+63,CONF-16477,CONF-11467,relates to
+64,CONF-16477,CONF-25542,relates to
+65,CONF-16477,CONF-28888,relates to
+66,CONF-16477,CONF-22337,is related to
+67,CONF-16477,CONF-24977,is related to
+68,CONF-16477,CONF-7771,is related to
+69,CONF-16477,CONF-19103,is related to
+70,CONF-16477,JRA-29932,is related to
+71,CONF-16993,CONF-16802,is caused by
+72,CONF-16993,CONF-21510,is duplicated by
+73,CONF-16993,CONF-23068,is incorporated by
+74,CONF-16993,CONF-33065,relates to
+75,CONF-16993,CONF-23068,relates to
+76,CONF-16993,CONF-27874,is related to
+77,CONF-16993,CONF-14485,is related to
+78,CONF-16993,CONF-27872,is related to
+79,CONF-17523,CONF-5633,is related to
+80,CONF-17523,CONF-10271,is related to
+81,CONF-22002,CONF-30112,causes
+82,CONF-22002,CONF-30152,causes
+83,CONF-22002,CONF-30659,causes
+84,CONF-22002,CONF-31580,causes
+85,CONF-22002,CONF-31375,is duplicated by
+86,CONF-22002,CONF-25689,is duplicated by
+87,CONF-22002,CONF-28498,is duplicated by
+88,CONF-22002,CONF-31715,is duplicated by
+89,CONF-22002,CONF-33486,is related to
+90,CONF-22002,CONF-13729,is related to
+91,CONF-22002,CONF-22739,is related to
+92,CONF-22002,CONF-31715,is related to
+93,CONF-22002,CONF-32209,has a regression in
+94,CONF-22002,CONF-36326,has a regression in
+95,CONF-22069,CONF-27397,blocks
+96,CONF-22069,CONF-21480,relates to
+97,CONF-22477,CONF-22659,is duplicated by
+98,CONF-22477,CONF-26371,is incorporated by
+99,CONF-22477,CWD-1971,relates to
+100,CONF-22477,JRA-32129,is related to
+101,CONF-22726,CONF-25236,relates to
+102,CONF-22726,CONF-24978,is related to
+103,CONF-23171,CONF-25488,is related to
+104,CONF-23336,CONF-7612,is incorporated by
+105,CONF-23682,CONF-23487,is duplicated by
+106,CONF-23682,CONF-23487,relates to
+107,CONF-24201,CONF-25537,is duplicated by
+108,CONF-24201,CONF-25016,is duplicated by
+109,CONF-24201,CONF-25537,relates to
+110,CONF-24201,CONF-30997,is related to
+111,CONF-2455,CONF-1576,is blocked by
+112,CONF-2455,CONF-33613,Testing discovered
+113,CONF-2455,CONF-2585,is duplicated by
+114,CONF-2455,CONF-6846,is duplicated by
+115,CONF-2455,CONF-6634,is duplicated by
+116,CONF-2455,CONF-34568,is related to
+117,CONF-2455,CONF-16142,is related to
+118,CONF-24738,CONF-24756,relates to
+119,CONF-24760,CONF-25994,relates to
+120,CONF-24760,CONF-25057,is related to
+121,CONF-24786,CWD-995,is cloned from
+122,CONF-24786,JRA-30694,was cloned as
+123,CONF-24918,CONF-26848,causes
+124,CONF-24978,CONF-22726,relates to
+125,CONF-25018,CONF-27935,is duplicated by
+126,CONF-25057,CONF-24760,relates to
+127,CONF-25111,CONF-24239,is duplicated by
+128,CONF-25111,CONF-27140,is duplicated by
+129,CONF-25111,CONF-32497,is related to
+130,CONF-25235,CONF-25120,relates to
+131,CONF-25259,CONF-25310,duplicates
+132,CONF-25259,CONF-25310,is duplicated by
+133,CONF-25259,CONF-25766,is duplicated by
+134,CONF-25314,CONF-25486,is incorporated by
+135,CONF-25348,CONF-26057,is incorporated by
+136,CONF-25476,CONF-25213,derived from
+137,CONF-25476,JRA-25181,is incorporated by
+138,CONF-25477,CONF-26023,is related to
+139,CONF-25486,CONF-25314,incorporates
+140,CONF-25486,CONF-28477,is superseded by
+141,CONF-25639,CONF-25236,duplicates
+142,CONF-25780,CONF-25467,is related to
+143,CONF-26031,CONF-28478,is duplicated by
+144,CONF-26031,CONF-11443,is incorporated by
+145,CONF-26040,CONF-26057,is incorporated by
+146,CONF-26049,JRA-29213,was cloned as
+147,CONF-26049,STASH-3553,relates to
+148,CONF-26049,CONF-26826,is related to
+149,CONF-26057,CONF-25348,incorporates
+150,CONF-26057,CONF-26040,incorporates
+151,CONF-26122,CONF-26120,causes
+152,CONF-26122,CONF-25362,is duplicated by
+153,CONF-26122,CONF-26255,relates to
+154,CONF-26122,CONF-26024,is related to
+155,CONF-26132,CONF-25366,relates to
+156,CONF-26132,CONF-30017,is related to
+157,CONF-26619,CONF-26767,is duplicated by
+158,CONF-26619,CONF-26837,relates to
+159,CONF-26619,CONF-26985,relates to
+160,CONF-26694,CONF-26654,duplicates
+161,CONF-26782,CONF-28249,relates to
+162,CONF-26782,CONF-30996,is related to
+163,CONF-26848,CONF-24918,is caused by
+164,CONF-26848,CONF-26814,causes
+165,CONF-26848,CONF-26994,relates to
+166,CONF-26848,JRA-30373,relates to
+167,CONF-26848,CONF-29359,is related to
+168,CONF-27023,CONF-26729,is caused by
+169,CONF-27023,CONF-28372,is duplicated by
+170,CONF-27023,CONF-33337,is related to
+171,CONF-27023,CONF-27796,is related to
+172,CONF-27068,CONF-30471,is duplicated by
+173,CONF-27068,CONF-32907,is related to
+174,CONF-27339,CONF-29314,is related to
+175,CONF-27397,CONF-22069,is blocked by
+176,CONF-27782,CONF-32403,is duplicated by
+177,CONF-27782,JRA-31295,relates to
+178,CONF-27872,CONF-16993,relates to
+179,CONF-27874,CONF-16993,relates to
+180,CONF-28111,CONF-29228,is duplicated by
+181,CONF-28111,CONF-28294,incorporates
+182,CONF-28111,CONF-29228,relates to
+183,CONF-28197,CONF-28275,duplicates
+184,CONF-28249,CONF-31938,is related to
+185,CONF-28249,CONF-26782,is related to
+186,CONF-28249,CONF-27945,is related to
+187,CONF-28258,CONF-996,relates to
+188,CONF-28258,CONF-27701,is related to
+189,CONF-28272,CONF-28741,is caused by
+190,CONF-28329,CONF-28677,is duplicated by
+191,CONF-28419,CONF-28230,is duplicated by
+192,CONF-28419,CONF-31646,relates to
+193,CONF-28577,CONF-28500,relates to
+194,CONF-28593,CONF-28633,is duplicated by
+195,CONF-28615,CONF-6404,is cloned from
+196,CONF-28615,STASH-3607,relates to
+197,CONF-28615,CONF-36018,is related to
+198,CONF-28615,CONF-6404,is a regression of
+199,CONF-28635,CONF-28869,is duplicated by
+200,CONF-28635,CONF-31128,is duplicated by
+201,CONF-28644,CONF-28971,is duplicated by
+202,CONF-28655,JRA-27623,is related to
+203,CONF-28659,CONF-28962,is duplicated by
+204,CONF-28659,CONF-19470,incorporates
+205,CONF-28659,CONF-27518,incorporates
+206,CONF-29078,CONF-28987,duplicates
+207,CONF-29078,CONF-28987,is duplicated by
+208,CONF-29098,CONF-33844,is related to
+209,CONF-29156,CONF-28107,is cloned from
+210,CONF-29182,CONF-15967,duplicates
+211,CONF-29182,CONF-30306,is duplicated by
+212,CONF-29182,CONF-22283,relates to
+213,CONF-29182,JRA-36989,relates to
+214,CONF-29182,CONF-34608,is related to
+215,CONF-29182,CONF-15967,is related to
+216,CONF-29182,CONF-29566,is related to
+217,CONF-29182,JRA-33280,is related to
+218,CONF-29182,CONF-32611,has a regression in
+219,CONF-29228,CONF-28111,duplicates
+220,CONF-29228,CONF-28111,is related to
+221,CONF-29513,CONF-22979,is duplicated by
+222,CONF-29758,CONF-29608,causes
+223,CONF-29758,CONF-29608,is duplicated by
+224,CONF-29776,CONF-28277,is cloned from
+225,CONF-29776,CONF-31860,incorporates
+226,CONF-29799,CONF-29939,is duplicated by
+227,CONF-29799,CONF-29831,is duplicated by
+228,CONF-29799,CONF-30611,is duplicated by
+229,CONF-29799,CONF-26011,relates to
+230,CONF-29799,CONF-21113,relates to
+231,CONF-29799,CONF-29942,relates to
+232,CONF-29799,CONF-24567,relates to
+233,CONF-29810,CONF-30549,Testing discovered
+234,CONF-29810,CONF-15512,details
+235,CONF-29810,CONF-30514,is duplicated by
+236,CONF-29810,CONF-31624,relates to
+237,CONF-29863,CONF-30615,is duplicated by
+238,CONF-29910,CONF-8978,is caused by
+239,CONF-29966,CONF-29904,relates to
+240,CONF-30050,CONF-9857,duplicates
+241,CONF-30050,CONF-35855,is duplicated by
+242,CONF-30050,CONF-33913,is duplicated by
+243,CONF-30050,CONF-35901,is duplicated by
+244,CONF-30050,CONF-9857,incorporates
+245,CONF-30050,CONF-33884,relates to
+246,CONF-30050,CONF-36018,relates to
+247,CONF-30050,CONF-33528,is related to
+248,CONF-30050,CONF-33543,is related to
+249,CONF-30084,CONF-30085,is related to
+250,CONF-30085,CONF-30084,relates to
+251,CONF-30104,CONF-31822,is related to
+252,CONF-30115,CONF-25835,is duplicated by
+253,CONF-30146,CONF-33193,was cloned as
+254,CONF-30217,CONF-31021,relates to
+255,CONF-30217,CONF-34177,is related to
+256,CONF-30239,CONF-31500,is duplicated by
+257,CONF-30321,CONF-30120,relates to
+258,CONF-30380,CONF-31994,was split into
+259,CONF-30384,CONF-30840,duplicates
+260,CONF-30384,CONF-30487,is duplicated by
+261,CONF-30384,CONF-30419,is duplicated by
+262,CONF-30384,CONF-28993,relates to
+263,CONF-30384,CONF-30840,is related to
+264,CONF-30411,CONF-9281,relates to
+265,CONF-30426,CSI-1012,was cloned as
+266,CONF-30428,CONF-30686,is related to
+267,CONF-30492,CONF-30487,relates to
+268,CONF-30536,CONF-30749,causes
+269,CONF-30569,CONF-32414,was cloned as
+270,CONF-30569,CONF-31444,is duplicated by
+271,CONF-30569,CONF-30587,relates to
+272,CONF-30587,CONF-33475,duplicates
+273,CONF-30587,CONF-30569,is related to
+274,CONF-30587,CONF-32414,is related to
+275,CONF-30630,CONF-30350,relates to
+276,CONF-30633,CONF-30593,is duplicated by
+277,CONF-30721,CONF-26656,duplicates
+278,CONF-30731,CONF-28917,duplicates
+279,CONF-30731,CONF-28917,is related to
+280,CONF-30833,CONF-28704,relates to
+281,CONF-30833,CONF-29317,relates to
+282,CONF-30853,CONF-31768,duplicates
+283,CONF-30874,CONF-30077,is related to
+284,CONF-30891,CONF-29832,duplicates
+285,CONF-30891,CONF-30966,relates to
+286,CONF-30984,CONF-31003,duplicates
+287,CONF-31021,CONF-31588,relates to
+288,CONF-31021,CONF-30217,is related to
+289,CONF-31149,CONF-31150,relates to
+290,CONF-31149,CONF-31972,relates to
+291,CONF-31150,CONF-31149,is related to
+292,CONF-31156,JRA-35314,was cloned as
+293,CONF-31156,CONF-31175,was cloned as
+294,CONF-31156,CWD-3683,has a derivative of
+295,CONF-31209,CONF-30672,relates to
+296,CONF-31209,CONF-31210,relates to
+297,CONF-31209,CONF-31241,is related to
+298,CONF-31209,CONF-22911,is related to
+299,CONF-31209,CONF-14379,is related to
+300,CONF-31283,CONF-32897,is duplicated by
+301,CONF-31283,CONF-21846,is duplicated by
+302,CONF-31283,CONF-34360,is duplicated by
+303,CONF-31283,CONF-21846,relates to
+304,CONF-31283,TEAMCAL-2711,relates to
+305,CONF-31284,JRA-40081,relates to
+306,CONF-31333,CONF-3613,duplicates
+307,CONF-31333,CONF-3613,is related to
+308,CONF-31338,CWD-3696,relates to
+309,CONF-31338,JRA-36555,relates to
+310,CONF-31474,CONF-31566,is duplicated by
+311,CONF-31474,CONF-32408,is related to
+312,CONF-31518,CONF-32367,is duplicated by
+313,CONF-31518,CONF-32928,is duplicated by
+314,CONF-31534,GHS-10115,is blocked by
+315,CONF-31534,CONF-33651,relates to
+316,CONF-31534,CONF-32317,is related to
+317,CONF-31585,CONF-25394,is related to
+318,CONF-31588,CONF-31931,has a derivative of
+319,CONF-31588,CONF-31586,is related to
+320,CONF-31588,CONF-31021,is related to
+321,CONF-31675,CONF-13798,is caused by
+322,CONF-31707,CONF-32035,Testing discovered
+323,CONF-31744,CONF-31637,is caused by
+324,CONF-31836,CONF-23353,is related to
+325,CONF-31931,CONF-31588,derived from
+326,CONF-31934,CONF-31870,duplicates
+327,CONF-31994,CONF-30380,was split from
+328,CONF-32105,CONF-32342,is duplicated by
+329,CONF-32105,CONF-32095,relates to
+330,CONF-32187,CONF-22283,relates to
+331,CONF-32234,CONF-32226,duplicates
+332,CONF-32234,CONF-32437,is duplicated by
+333,CONF-32234,CONF-32748,is duplicated by
+334,CONF-32234,CONF-32843,is related to
+335,CONF-32523,GHS-10588,relates to
+336,CONF-32525,CONF-34406,relates to
+337,CONF-32525,CONF-32068,is related to
+338,CONF-32525,CONF-35655,is related to
+339,CONF-32525,CONF-36547,is related to
+340,CONF-32525,CONF-30430,is related to
+341,CONF-32697,CONF-33310,relates to
+342,CONF-32697,CONF-37402,has a regression in
+343,CONF-32768,CONF-31463,relates to
+344,CONF-32814,CONF-32792,incorporates
+345,CONF-32861,CONF-30822,is a regression of
+346,CONF-33179,CONF-33197,is blocked by
+347,CONF-33179,CONF-33197,is duplicated by
+348,CONF-33557,CONF-33774,is incorporated by
+349,CONF-33830,CONF-33938,has a derivative of
+350,CONF-33889,CONF-34161,duplicates
+351,CONF-33922,CONF-24091,is duplicated by
+352,CONF-33922,CONF-34186,is duplicated by
+353,CONF-33922,CONF-34333,is duplicated by
+354,CONF-33922,CONF-34417,is duplicated by
+355,CONF-33922,CONF-36861,is related to
+356,CONF-33997,CONF-34116,incorporates
+357,CONF-33997,CONF-35214,is related to
+358,CONF-34406,CONF-32525,is related to
+359,CONF-34408,CONF-36746,is duplicated by
+360,CONF-34408,CONF-35077,is related to
+361,CONF-34408,CONF-34398,is related to
+362,CONF-34568,CONF-2455,relates to
+363,CONF-34568,CONF-34441,is related to
+364,CONF-34764,CONF-33057,relates to
+365,CONF-34780,CONF-36039,relates to
+366,CONF-34835,CONF-34244,duplicates
+367,CONF-34835,CONF-34522,is duplicated by
+368,CONF-34870,CONF-35040,relates to
+369,CONF-34870,CONF-35096,relates to
+370,CONF-34870,CONF-34233,relates to
+371,CONF-34870,CONF-35396,is related to
+372,CONF-35313,CONF-35373,is duplicated by
+373,CONF-35313,CONF-35586,is duplicated by
+374,CONF-35596,CONF-13294,relates to
+375,CONF-35945,CONF-32451,duplicates
+376,CONF-35945,CONF-36997,duplicates
+377,CONF-36334,CONF-36504,relates to
+378,CONF-36415,CONF-36841,duplicates
+379,CONF-36415,CONF-36865,is duplicated by
+380,CONF-36415,CONF-36992,relates to
+381,CONF-36430,CONF-36484,relates to
+382,CONF-36430,CONF-36588,relates to
+383,CONF-36547,CONF-32525,relates to
+384,CONF-36695,CONF-36694,is related to
+385,CONF-37402,CONF-32697,is a regression of
+386,CONF-37728,CONF-38104,incorporates
+387,CONF-4063,CONF-17212,blocks
+388,CONF-4063,CONF-20157,blocks
+389,CONF-4063,CONF-12437,causes
+390,CONF-4063,CONF-18568,causes
+391,CONF-4063,CONF-5567,is duplicated by
+392,CONF-4063,CONF-7288,is duplicated by
+393,CONF-4063,CONF-9159,is incorporated by
+394,CONF-4063,CONF-30228,relates to
+395,CONF-4063,CONF-2191,relates to
+396,CONF-4063,JRA-1549,is related to
+397,CONF-5599,CONF-10674,causes
+398,CONF-5599,CONF-3149,duplicates
+399,CONF-5599,CONF-5959,is duplicated by
+400,CONF-5599,CONF-5594,is duplicated by
+401,CONF-5599,CONF-14684,relates to
+402,CONF-5599,CONF-28274,relates to
+403,CONF-5599,CONF-24788,is related to
+404,CONF-5599,CONF-27956,is related to
+405,CONF-5599,CONF-1727,is a regression of
+406,CONF-6404,CONF-25125,causes
+407,CONF-6404,CONF-27855,causes
+408,CONF-6404,CONF-27265,causes
+409,CONF-6404,CONF-28615,was cloned as
+410,CONF-6404,CONF-7668,is duplicated by
+411,CONF-6404,CONF-26977,is duplicated by
+412,CONF-6404,CONF-18990,is duplicated by
+413,CONF-6404,CONF-10769,relates to
+414,CONF-6404,CONF-26480,relates to
+415,CONF-6404,CONF-28615,has a regression in
+416,CONF-7526,CONF-21639,is duplicated by
+417,CONF-7526,CONF-24583,is duplicated by
+418,CONF-7526,CONF-35756,relates to
+419,CONF-7526,CONF-21646,is related to
+420,CONF-7526,CONF-9450,is related to
+421,CONF-7612,CONF-33065,is duplicated by
+422,CONF-7612,CONF-24377,is duplicated by
+423,CONF-7612,CONF-28801,is duplicated by
+424,CONF-7612,CONF-12307,is duplicated by
+425,CONF-7612,CONF-9362,is duplicated by
+426,CONF-7612,CONF-23336,incorporates
+427,CONF-7612,CONF-7994,incorporates
+428,CONF-7612,CONF-6810,relates to
+429,CONF-7612,CONF-31936,is related to
+430,CONF-9281,CONF-13021,is duplicated by
+431,CONF-9281,CONF-33310,relates to
+432,CONF-9281,CONF-30411,is related to
+433,CQ-1002,CQ-725,is caused by
+434,CQ-1011,CQ-1069,is duplicated by
+435,CQ-1085,CQ-930,is cloned from
+436,CQ-1085,CQ-1256,is duplicated by
+437,CQ-1085,CQ-495,is related to
+438,CQ-1108,CQ-1157,is duplicated by
+439,CQ-1108,CQ-1176,is duplicated by
+440,CQ-1108,CQ-1149,is related to
+441,CQ-1108,CQ-1164,is related to
+442,CQ-1117,CQ-1120,is related to
+443,CQ-1120,CQ-1117,relates to
+444,CQ-1131,CQ-1139,is duplicated by
+445,CQ-1131,CQ-1180,is duplicated by
+446,CQ-1155,CQ-1166,is duplicated by
+447,CQ-1163,CQ-1296,causes
+448,CQ-1163,CQ-1184,is related to
+449,CQ-1189,CQ-233,duplicates
+450,CQ-1189,CQ-603,supersedes
+451,CQ-1201,CQ-1156,relates to
+452,CQ-1219,CQ-1341,is related to
+453,CQ-1257,CQ-1850,relates to
+454,CQ-1281,CQ-1332,blocks
+455,CQ-1334,CQ-1316,is caused by
+456,CQ-1340,CQ-1316,is caused by
+457,CQ-1379,CQ-985,duplicates
+458,CQ-236,CQ-421,is duplicated by
+459,CQ-236,CQ-386,is duplicated by
+460,CQ-251,CQ-407,is duplicated by
+461,CQ-251,CQ-408,is duplicated by
+462,CQ-254,CQ-319,is duplicated by
+463,CQ-254,CQ-480,relates to
+464,CQ-254,CQ-316,is related to
+465,CQ-263,CQ-275,is related to
+466,CQ-263,CQ-526,is related to
+467,CQ-263,CQ-405,supersedes
+468,CQ-270,CQ-597,is duplicated by
+469,CQ-316,CQ-480,relates to
+470,CQ-316,CQ-254,relates to
+471,CQ-338,CQ-434,is duplicated by
+472,CQ-338,CQ-344,is duplicated by
+473,CQ-344,CQ-338,duplicates
+474,CQ-361,JSD-35,blocks
+475,CQ-378,CQ-774,has a derivative of
+476,CQ-378,CQ-775,has a derivative of
+477,CQ-378,CQ-776,has a derivative of
+478,CQ-378,CQ-777,has a derivative of
+479,CQ-383,CQ-486,is blocked by
+480,CQ-383,CQ-411,relates to
+481,CQ-383,CQ-821,relates to
+482,CQ-383,CQ-1045,is related to
+483,CQ-398,CQ-32,is duplicated by
+484,CQ-411,CQ-904,is duplicated by
+485,CQ-411,CQ-486,is incorporated by
+486,CQ-411,CQ-821,relates to
+487,CQ-411,CQ-1135,is related to
+488,CQ-411,CQ-383,is related to
+489,CQ-440,CQ-422,is duplicated by
+490,CQ-443,CQ-441,is duplicated by
+491,CQ-519,CQ-569,is duplicated by
+492,CQ-523,CQ-522,is duplicated by
+493,CQ-524,CQ-629,is duplicated by
+494,CQ-535,CONF-33673,is caused by
+495,CQ-536,CONF-31202,relates to
+496,CQ-541,CQ-565,blocks
+497,CQ-541,CQ-119,duplicates
+498,CQ-541,CQ-119,relates to
+499,CQ-55,CQ-836,relates to
+500,CQ-56,CQ-389,blocks
+501,CQ-565,CQ-541,is blocked by
+502,CQ-598,CQ-1878,is cloned from
+503,CQ-599,CQ-84,duplicates
+504,CQ-60,CQ-406,is duplicated by
+505,CQ-635,CQ-926,is related to
+506,CQ-636,CQ-782,causes
+507,CQ-636,CQ-374,is duplicated by
+508,CQ-692,CQ-800,is related to
+509,CQ-718,CQ-781,is duplicated by
+510,CQ-746,CQ-518,is duplicated by
+511,CQ-755,CQ-1958,was cloned as
+512,CQ-773,CQ-835,has a derivative of
+513,CQ-773,CQ-825,is duplicated by
+514,CQ-773,CQ-771,relates to
+515,CQ-773,CQ-910,relates to
+516,CQ-774,CQ-378,derived from
+517,CQ-775,CQ-378,derived from
+518,CQ-776,CQ-378,derived from
+519,CQ-777,CQ-378,derived from
+520,CQ-781,CQ-718,duplicates
+521,CQ-782,CQ-636,is caused by
+522,CQ-80,CQ-771,causes
+523,CQ-80,CQ-352,is duplicated by
+524,CQ-809,CQ-459,is duplicated by
+525,CQ-811,CQ-893,is duplicated by
+526,CQ-812,CQ-813,is incorporated by
+527,CQ-813,CQ-812,incorporates
+528,CQ-821,CQ-873,relates to
+529,CQ-821,CQ-411,is related to
+530,CQ-821,CQ-383,is related to
+531,CQ-828,CONF-5254,is caused by
+532,CQ-835,CQ-773,derived from
+533,CQ-848,CQ-851,Discovered while testing
+534,CQ-848,CQ-852,Testing discovered
+535,CQ-851,CQ-848,Testing discovered
+536,CQ-852,CQ-848,Discovered while testing
+537,CQ-863,CQ-864,is duplicated by
+538,CQ-864,CQ-863,duplicates
+539,CQ-870,CQ-906,is duplicated by
+540,CQ-870,CQ-1556,is related to
+541,CQ-903,CQ-1138,is duplicated by
+542,CQ-903,CQ-1221,is duplicated by
+543,CQ-903,CQ-808,supersedes
+544,CQ-930,CQ-1085,was cloned as
+545,CQ-930,CQ-495,is related to
+546,CQ-937,CQ-939,is related to
+547,CQ-939,CQ-937,relates to
+548,CQ-942,CQ-943,is duplicated by
+549,CQ-942,CQ-1469,relates to
+550,CQ-955,CQ-980,is related to
+551,CQ-957,CQ-1208,is duplicated by
+552,CQ-985,CQ-1228,is duplicated by
+553,CQ-985,CQ-1231,is duplicated by
+554,CQ-985,CQ-1379,is duplicated by
+555,GHS-10021,GHS-10075,is duplicated by
+556,GHS-10021,GHS-10020,is duplicated by
+557,GHS-10021,GHS-10036,is duplicated by
+558,GHS-10021,GHS-10039,is duplicated by
+559,GHS-10021,GHS-10042,is duplicated by
+560,GHS-10077,GHS-9380,duplicates
+561,GHS-10116,GHS-10124,is duplicated by
+562,GHS-10129,GHS-10149,is duplicated by
+563,GHS-10129,GHS-10149,is related to
+564,GHS-10165,GHS-8061,duplicates
+565,GHS-10165,GHS-8061,is duplicated by
+566,GHS-10338,GHS-10455,is related to
+567,GHS-10349,GHS-9273,is duplicated by
+568,GHS-10450,GHS-10535,relates to
+569,GHS-10463,GHS-10474,is duplicated by
+570,GHS-10463,GHS-10455,incorporates
+571,GHS-10524,GHS-10558,is duplicated by
+572,GHS-10619,GHS-10624,is related to
+573,GHS-10623,JSD-435,causes
+574,GHS-10769,GHS-10919,was cloned as
+575,GHS-10769,GHS-10778,relates to
+576,GHS-10771,GHS-9991,is caused by
+577,GHS-10778,JRA-19317,relates to
+578,GHS-10778,GHS-10769,is related to
+579,GHS-10778,GHS-10919,is related to
+580,GHS-1261,GHS-5123,was cloned as
+581,GHS-1261,GHS-2473,is duplicated by
+582,GHS-1261,GHS-2660,is duplicated by
+583,GHS-1261,GHS-3679,is duplicated by
+584,GHS-1261,GHS-308,relates to
+585,GHS-2785,GHS-2408,relates to
+586,GHS-2785,GHS-11649,relates to
+587,GHS-3254,GHS-5004,relates to
+588,GHS-3772,GHS-4243,is duplicated by
+589,GHS-3772,GHS-4010,is related to
+590,GHS-3772,GHS-2245,is related to
+591,GHS-4503,GHS-4673,is duplicated by
+592,GHS-4547,GHS-4641,is related to
+593,GHS-4638,GHS-7284,is duplicated by
+594,GHS-4638,GHS-8048,is related to
+595,GHS-4641,GHS-4547,relates to
+596,GHS-4655,GHS-4280,incorporates
+597,GHS-4712,GHS-4780,is duplicated by
+598,GHS-4765,GHS-4888,was cloned as
+599,GHS-4765,GHS-4877,relates to
+600,GHS-4768,GHS-4967,incorporates
+601,GHS-4768,GHS-4971,incorporates
+602,GHS-4780,GHS-4712,duplicates
+603,GHS-4784,GHS-4679,duplicates
+604,GHS-4784,GHS-4948,duplicates
+605,GHS-4784,GHS-4679,is related to
+606,GHS-4823,GHS-4857,relates to
+607,GHS-4849,JRA-28032,is caused by
+608,GHS-4849,JRA-28032,relates to
+609,GHS-4877,GHS-4765,is related to
+610,GHS-4877,GHS-4888,is related to
+611,GHS-4877,GHS-4407,supersedes
+612,GHS-4877,GHS-4449,supersedes
+613,GHS-4887,JRA-27879,relates to
+614,GHS-4887,BON-1011,is related to
+615,GHS-4888,GHS-4765,is cloned from
+616,GHS-4888,GHS-4877,relates to
+617,GHS-4895,BON-1011,is related to
+618,GHS-4898,JRA-26555,relates to
+619,GHS-4906,GHS-4531,supersedes
+620,GHS-4911,GHS-4971,incorporates
+621,GHS-4916,GHS-6034,is related to
+622,GHS-4919,GHS-5012,causes
+623,GHS-4919,GHS-5014,causes
+624,GHS-4919,GHS-4971,incorporates
+625,GHS-4920,GHS-4959,is related to
+626,GHS-4938,GHS-4934,duplicates
+627,GHS-4939,GHS-4935,is duplicated by
+628,GHS-4951,GHS-4956,is incorporated by
+629,GHS-4951,GHS-5496,is related to
+630,GHS-4959,GHS-4920,relates to
+631,GHS-4959,GHS-4921,relates to
+632,GHS-4966,GHS-5132,is duplicated by
+633,GHS-4967,GHS-4768,is incorporated by
+634,GHS-4971,GHS-4768,is incorporated by
+635,GHS-4971,GHS-4911,is incorporated by
+636,GHS-4971,GHS-4919,is incorporated by
+637,GHS-4977,GHS-5026,relates to
+638,GHS-5004,GHS-3254,is related to
+639,GHS-5012,GHS-4919,is caused by
+640,GHS-5014,GHS-4919,is caused by
+641,GHS-5026,GHS-4977,is related to
+642,GHS-5027,GHS-3951,duplicates
+643,GHS-5049,GHS-5050,duplicates
+644,GHS-5058,GHS-5061,duplicates
+645,GHS-5058,GHS-5283,relates to
+646,GHS-5080,GHS-5083,relates to
+647,GHS-5091,GHS-5220,relates to
+648,GHS-5115,GHS-4965,is duplicated by
+649,GHS-5115,GHS-5092,is duplicated by
+650,GHS-5118,GHS-5117,is related to
+651,GHS-5180,GHS-5191,is duplicated by
+652,GHS-5191,GHS-5180,duplicates
+653,GHS-5198,JRA-28355,was cloned as
+654,GHS-5198,JRA-29695,is related to
+655,GHS-5220,GHS-5088,incorporates
+656,GHS-5220,GHS-5091,is related to
+657,GHS-5221,GHS-5252,has a derivative of
+658,GHS-5234,GHS-5511,was cloned as
+659,GHS-5252,GHS-5349,was cloned as
+660,GHS-5252,GHS-5221,derived from
+661,GHS-5258,GHS-5261,duplicates
+662,GHS-5301,GHS-6309,relates to
+663,GHS-5349,GHS-5252,is cloned from
+664,GHS-5394,JRA-29298,relates to
+665,GHS-5413,GHS-5241,is duplicated by
+666,GHS-5440,GHS-5512,relates to
+667,GHS-5499,GHS-6002,is related to
+668,GHS-5542,GHS-5410,is related to
+669,GHS-5545,GHS-7740,is duplicated by
+670,GHS-5545,GHS-5634,is duplicated by
+671,GHS-5545,GHS-5638,is duplicated by
+672,GHS-5562,GHS-6705,is related to
+673,GHS-5568,GHS-5387,blocks
+674,GHS-5578,GHS-6142,is related to
+675,GHS-5619,GHS-6148,is related to
+676,GHS-5633,JRA-29386,is caused by
+677,GHS-5633,GHS-5973,duplicates
+678,GHS-5633,GHS-5880,is duplicated by
+679,GHS-5639,GHS-5892,is related to
+680,GHS-5660,GHS-6571,is related to
+681,GHS-5672,GHS-11280,is related to
+682,GHS-5676,GHS-6355,has a derivative of
+683,GHS-5676,GHS-6356,has a derivative of
+684,GHS-5691,GHS-5765,is duplicated by
+685,GHS-5699,GHS-5707,is duplicated by
+686,GHS-5712,GHS-5717,is related to
+687,GHS-5715,GHS-5718,is duplicated by
+688,GHS-5717,GHS-5712,relates to
+689,GHS-5725,JRA-29567,is duplicated by
+690,GHS-5733,GHS-6336,Discovered while testing
+691,GHS-5753,GHS-9708,is incorporated by
+692,GHS-5755,GHS-8167,is related to
+693,GHS-5773,GHS-6036,blocks
+694,GHS-5773,GHS-5923,is duplicated by
+695,GHS-5773,GHS-6341,is duplicated by
+696,GHS-5773,GHS-4949,is related to
+697,GHS-5776,JRA-23099,supersedes
+698,GHS-5816,GHS-5822,is related to
+699,GHS-5820,GHS-5843,duplicates
+700,GHS-5822,GHS-5816,relates to
+701,GHS-5829,JRA-29722,has a derivative of
+702,GHS-5829,JRA-29722,relates to
+703,GHS-5829,JRA-29773,relates to
+704,GHS-5829,GHS-5990,is related to
+705,GHS-5831,GHS-5482,incorporates
+706,GHS-5834,GHS-7056,is related to
+707,GHS-5841,GHS-5843,is incorporated by
+708,GHS-5843,GHS-5820,is duplicated by
+709,GHS-5843,GHS-5841,incorporates
+710,GHS-5844,GHS-5851,Discovered while testing
+711,GHS-5851,GHS-5844,Testing discovered
+712,GHS-5874,GHS-5994,relates to
+713,GHS-5875,GHS-2268,relates to
+714,GHS-5875,GHS-2526,relates to
+715,GHS-5875,GHS-3865,relates to
+716,GHS-5875,GHS-6165,is related to
+717,GHS-5875,GHS-4544,is related to
+718,GHS-5877,GHS-7311,is related to
+719,GHS-5881,GHS-5913,relates to
+720,GHS-5887,GHS-5943,causes
+721,GHS-5888,GHS-5943,causes
+722,GHS-5913,GHS-5881,is related to
+723,GHS-5918,GHS-6008,is duplicated by
+724,GHS-5918,GHS-6008,relates to
+725,GHS-5918,JRA-18918,relates to
+726,GHS-5934,JRA-29981,relates to
+727,GHS-5936,GHS-5914,Testing discovered
+728,GHS-5936,GHS-5937,relates to
+729,GHS-5936,GHS-5938,relates to
+730,GHS-5936,GHS-5935,is related to
+731,GHS-5937,GHS-5914,Testing discovered
+732,GHS-5937,GHS-5938,relates to
+733,GHS-5937,GHS-5935,is related to
+734,GHS-5937,GHS-5936,is related to
+735,GHS-5938,GHS-5914,Testing discovered
+736,GHS-5938,GHS-5935,is related to
+737,GHS-5938,GHS-5937,is related to
+738,GHS-5938,GHS-5936,is related to
+739,GHS-5941,GHS-5905,is duplicated by
+740,GHS-5945,GHS-5792,duplicates
+741,GHS-5951,GHS-5978,is related to
+742,GHS-5994,GHS-5874,is related to
+743,GHS-6008,GHS-5918,duplicates
+744,GHS-6008,GHS-5918,is related to
+745,GHS-6011,GHS-5906,incorporates
+746,GHS-6037,GHS-5977,relates to
+747,GHS-6037,GHS-6388,was split into
+748,GHS-6037,GHS-6387,was split into
+749,GHS-6076,GHS-6150,is duplicated by
+750,GHS-6084,GHS-8721,incorporates
+751,GHS-6086,GHS-6247,has a derivative of
+752,GHS-6087,GHS-9864,duplicates
+753,GHS-6127,GHS-7067,Testing discovered
+754,GHS-6128,GHS-3873,is related to
+755,GHS-6128,GHS-5117,is related to
+756,GHS-6142,GHS-6301,is duplicated by
+757,GHS-6142,GHS-6396,is duplicated by
+758,GHS-6142,GHS-5578,relates to
+759,GHS-6145,GHS-10251,relates to
+760,GHS-6145,GHS-5509,is related to
+761,GHS-6145,GHS-7238,is related to
+762,GHS-6157,GHS-6129,is related to
+763,GHS-6207,GHS-6193,relates to
+764,GHS-6212,GHS-6694,relates to
+765,GHS-6227,CLOUD-6124,relates to
+766,GHS-6227,GHS-6234,is related to
+767,GHS-6234,GHS-6227,relates to
+768,GHS-6234,GHS-6494,has a regression in
+769,GHS-6240,GHS-6330,is duplicated by
+770,GHS-6243,GHS-6390,Discovered while testing
+771,GHS-6247,GHS-6086,derived from
+772,GHS-6247,GHS-6430,is duplicated by
+773,GHS-6247,GHS-6478,is duplicated by
+774,GHS-6252,GHS-7592,has a regression in
+775,GHS-6252,GHS-7398,has a regression in
+776,GHS-6260,GHS-6320,is duplicated by
+777,GHS-6260,GHS-6320,relates to
+778,GHS-6263,GHS-6401,is duplicated by
+779,GHS-6281,GHS-6264,is caused by
+780,GHS-6294,GHS-6560,is incorporated by
+781,GHS-6312,GHS-6916,relates to
+782,GHS-6312,GHS-6957,was split into
+783,GHS-6355,GHS-5676,derived from
+784,GHS-6356,GHS-5676,derived from
+785,GHS-6370,GHS-6667,is duplicated by
+786,GHS-6372,GHS-6371,incorporates
+787,GHS-6372,GHS-6708,is related to
+788,GHS-6372,GHS-6709,is related to
+789,GHS-6389,GHS-6408,is duplicated by
+790,GHS-6390,GHS-6243,Testing discovered
+791,GHS-6446,GHS-6407,is duplicated by
+792,GHS-6446,GHS-6424,is duplicated by
+793,GHS-6448,JRA-31140,is caused by
+794,GHS-6463,GHS-6198,is duplicated by
+795,GHS-6463,GHS-6460,is duplicated by
+796,GHS-6466,GHS-5345,relates to
+797,GHS-6466,GHS-3712,is related to
+798,GHS-6466,GHS-7895,is related to
+799,GHS-6467,GHS-3712,relates to
+800,GHS-6467,GHS-5345,relates to
+801,GHS-6467,GHS-7894,is related to
+802,GHS-6471,GHS-7250,is duplicated by
+803,GHS-6471,GHS-7242,is related to
+804,GHS-6471,GHS-9791,is related to
+805,GHS-6471,GHS-6309,is related to
+806,GHS-6492,GHS-6490,is duplicated by
+807,GHS-6494,GHS-6234,is a regression of
+808,GHS-6528,JRA-30630,relates to
+809,GHS-6528,JRA-29448,is related to
+810,GHS-6537,GHS-6825,has a derivative of
+811,GHS-6537,GHS-6826,has a derivative of
+812,GHS-6537,GHS-12062,has a derivative of
+813,GHS-6537,GHS-6647,is duplicated by
+814,GHS-6537,GHS-6693,is duplicated by
+815,GHS-6537,GHS-6920,is related to
+816,GHS-6537,GHS-7310,is related to
+817,GHS-6538,GHS-6825,has a derivative of
+818,GHS-6538,GHS-6826,has a derivative of
+819,GHS-6538,GHS-12062,has a derivative of
+820,GHS-6539,GHS-6854,relates to
+821,GHS-6539,GHS-7889,is related to
+822,GHS-6539,GHS-6854,is related to
+823,GHS-6554,GHS-6625,is duplicated by
+824,GHS-6560,GHS-6294,incorporates
+825,GHS-6590,GHS-6630,is duplicated by
+826,GHS-6590,GHS-6627,is duplicated by
+827,GHS-6590,GHS-6921,is duplicated by
+828,GHS-6594,GHS-6202,is related to
+829,GHS-6594,GHS-6203,is related to
+830,GHS-6594,GHS-6209,is related to
+831,GHS-6594,GHS-6205,is related to
+832,GHS-6595,GHS-6599,duplicates
+833,GHS-6599,GHS-6595,is duplicated by
+834,GHS-6599,GHS-6272,is duplicated by
+835,GHS-6605,GHS-6635,is related to
+836,GHS-6614,JRA-30530,is caused by
+837,GHS-6615,GHS-6616,blocks
+838,GHS-6616,GHS-6615,is blocked by
+839,GHS-6616,GHS-6952,is related to
+840,GHS-6619,GHS-6679,causes
+841,GHS-6635,GHS-6605,relates to
+842,GHS-6665,GHS-6758,is related to
+843,GHS-6666,GHS-6678,is related to
+844,GHS-6680,GHS-5511,is cloned from
+845,GHS-6680,GHS-8321,was cloned as
+846,GHS-6685,GHS-6698,duplicates
+847,GHS-6698,GHS-6685,is duplicated by
+848,GHS-6705,GHS-5562,relates to
+849,GHS-6709,GHS-6372,relates to
+850,GHS-6718,GHS-8700,was cloned as
+851,GHS-6734,GHS-9540,relates to
+852,GHS-6738,GHS-6771,is related to
+853,GHS-6771,GHS-6738,relates to
+854,GHS-6781,GHS-8001,is related to
+855,GHS-6786,GHS-11439,relates to
+856,GHS-6791,GHS-6827,is duplicated by
+857,GHS-6791,GHS-6886,is duplicated by
+858,GHS-6791,GHS-6870,is duplicated by
+859,GHS-6800,GHS-6808,relates to
+860,GHS-6808,GHS-6800,is related to
+861,GHS-6828,GHS-7322,relates to
+862,GHS-6828,GHS-6754,is related to
+863,GHS-6849,GHS-9712,is related to
+864,GHS-6849,JRA-30909,is related to
+865,GHS-6905,GHS-5368,relates to
+866,GHS-6905,GHS-11139,relates to
+867,GHS-6905,GHS-11402,is related to
+868,GHS-6912,GHS-6927,is related to
+869,GHS-6927,GHS-7097,has a derivative of
+870,GHS-6927,GHS-6912,relates to
+871,GHS-6927,JRA-32277,relates to
+872,GHS-6927,JRA-34766,relates to
+873,GHS-6927,GHS-8671,is related to
+874,GHS-6954,GHS-7280,relates to
+875,GHS-6970,GHS-6984,Testing discovered
+876,GHS-6974,GHS-6976,is duplicated by
+877,GHS-6976,GHS-6974,duplicates
+878,GHS-7033,GHS-7092,Testing discovered
+879,GHS-7047,GHS-8067,relates to
+880,GHS-7080,GHS-7130,relates to
+881,GHS-7092,GHS-7033,Discovered while testing
+882,GHS-7097,GHS-6927,derived from
+883,GHS-7104,GHS-7106,is superseded by
+884,GHS-7106,GHS-7104,supersedes
+885,GHS-7120,GHS-8671,is caused by
+886,GHS-7124,GHS-7318,is duplicated by
+887,GHS-7160,GHS-8109,is related to
+888,GHS-7168,GHS-7695,was cloned as
+889,GHS-7214,GHS-7228,was cloned as
+890,GHS-7217,GHS-7223,is duplicated by
+891,GHS-7217,GHS-7223,relates to
+892,GHS-7223,GHS-7217,duplicates
+893,GHS-7223,GHS-7217,is related to
+894,GHS-7228,GHS-7214,is cloned from
+895,GHS-7251,GHS-7180,blocks
+896,GHS-7251,GHS-7180,is duplicated by
+897,GHS-7254,GHS-7586,is related to
+898,GHS-7269,JRA-1549,is caused by
+899,GHS-7297,GHS-7685,is duplicated by
+900,GHS-7297,GHS-7834,is duplicated by
+901,GHS-7297,GHS-7685,is related to
+902,GHS-7309,GHS-7278,duplicates
+903,GHS-7317,GHS-7644,is duplicated by
+904,GHS-7317,GHS-7644,incorporates
+905,GHS-7405,GHS-6980,relates to
+906,GHS-7436,GHS-7585,relates to
+907,GHS-7469,JRA-13362,is related to
+908,GHS-7478,GHS-7537,relates to
+909,GHS-7515,GHS-7465,incorporates
+910,GHS-7585,GHS-8310,relates to
+911,GHS-7585,GHS-7436,is related to
+912,GHS-7592,JRA-31775,is caused by
+913,GHS-7592,GHS-7398,incorporates
+914,GHS-7592,GHS-6252,is a regression of
+915,GHS-7592,GHS-7398,is a regression of
+916,GHS-7600,GHS-7601,relates to
+917,GHS-7601,GHS-7600,is related to
+918,GHS-7617,GHS-7628,is duplicated by
+919,GHS-7620,GHS-7624,is duplicated by
+920,GHS-7621,GHS-7637,relates to
+921,GHS-7637,GHS-7621,is related to
+922,GHS-7645,GHS-8401,duplicates
+923,GHS-7645,GHS-7659,is duplicated by
+924,GHS-7645,GHS-7661,relates to
+925,GHS-7661,GHS-7659,is duplicated by
+926,GHS-7661,GHS-7645,is related to
+927,GHS-7695,GHS-7168,is cloned from
+928,GHS-7710,GHS-7907,relates to
+929,GHS-7746,GHS-7364,Discovered while testing
+930,GHS-7749,GHS-7761,was cloned as
+931,GHS-7753,GHS-8837,is duplicated by
+932,GHS-7753,GHS-6426,incorporates
+933,GHS-7753,GHS-5720,relates to
+934,GHS-7753,GHS-6426,relates to
+935,GHS-7753,GHS-9144,relates to
+936,GHS-7753,GHS-11631,is related to
+937,GHS-7753,GHS-6426,is related to
+938,GHS-7761,GHS-7749,is cloned from
+939,GHS-7805,GHS-7787,is duplicated by
+940,GHS-7873,GHS-9050,is duplicated by
+941,GHS-7873,GHS-9150,is duplicated by
+942,GHS-7873,GHS-9050,incorporates
+943,GHS-7873,GHS-5211,is related to
+944,GHS-7874,GHS-8778,is duplicated by
+945,GHS-7874,GHS-8789,incorporates
+946,GHS-7874,GHS-8799,incorporates
+947,GHS-7874,GHS-8875,incorporates
+948,GHS-7874,GHS-7618,relates to
+949,GHS-7874,GHS-9236,relates to
+950,GHS-7874,GHS-7420,relates to
+951,GHS-7874,GHS-8864,relates to
+952,GHS-7874,GHS-11634,is related to
+953,GHS-7893,GHS-5689,is duplicated by
+954,GHS-7893,GHS-5690,is duplicated by
+955,GHS-7893,GHS-7169,is duplicated by
+956,GHS-7893,GHS-7705,is duplicated by
+957,GHS-7893,GHS-8541,is duplicated by
+958,GHS-7893,GHS-9982,is duplicated by
+959,GHS-7893,GHS-9997,is duplicated by
+960,GHS-7893,GHS-11579,is duplicated by
+961,GHS-7893,GHS-11947,is duplicated by
+962,GHS-7893,GHS-4292,incorporates
+963,GHS-7893,GHS-4661,incorporates
+964,GHS-7893,GHS-5689,relates to
+965,GHS-7893,GHS-7169,relates to
+966,GHS-7893,GHS-7321,relates to
+967,GHS-7893,GHS-9741,relates to
+968,GHS-7893,GHS-11779,relates to
+969,GHS-7893,GHS-12172,relates to
+970,GHS-7893,GHS-6881,is related to
+971,GHS-7907,GHS-7710,is related to
+972,GHS-7922,GHS-7952,is duplicated by
+973,GHS-7936,GHS-7546,is related to
+974,GHS-7936,GHS-7854,is related to
+975,GHS-7941,GHS-7991,is related to
+976,GHS-7952,GHS-7922,duplicates
+977,GHS-7976,JRA-30530,is caused by
+978,GHS-7976,JRA-30530,duplicates
+979,GHS-8050,GHS-7875,is related to
+980,GHS-8053,GHS-8458,duplicates
+981,GHS-8137,GHS-8164,is blocked by
+982,GHS-8164,GHS-8137,blocks
+983,GHS-8191,GHS-9316,relates to
+984,GHS-8191,GHS-6788,is related to
+985,GHS-8282,GHS-8320,incorporates
+986,GHS-8310,GHS-8478,is duplicated by
+987,GHS-8310,GHS-8475,is duplicated by
+988,GHS-8310,GHS-7585,is related to
+989,GHS-8320,GHS-8238,is duplicated by
+990,GHS-8320,GHS-8282,is incorporated by
+991,GHS-8321,GHS-6680,is cloned from
+992,GHS-8409,GHS-8441,was cloned as
+993,GHS-8441,GHS-8409,is cloned from
+994,GHS-8469,GHS-9536,has a derivative of
+995,GHS-8469,GHS-8949,is duplicated by
+996,GHS-8469,GHS-9168,is duplicated by
+997,GHS-8469,GHS-9331,is duplicated by
+998,GHS-8469,GHS-9218,is duplicated by
+999,GHS-8469,GHS-9373,is duplicated by
+1000,GHS-8469,GHS-8954,is duplicated by
+1001,GHS-8469,GHS-8830,incorporates
+1002,GHS-8469,GHS-9357,relates to
+1003,GHS-8469,GHS-8830,is related to
+1004,GHS-8471,GHS-7887,is cloned from
+1005,GHS-8476,GHS-8646,is duplicated by
+1006,GHS-8476,GHS-8680,is duplicated by
+1007,GHS-8476,GHS-8563,incorporates
+1008,GHS-8523,GHS-8675,is blocked by
+1009,GHS-8585,GHS-8615,is duplicated by
+1010,GHS-8614,GHS-8655,relates to
+1011,GHS-8614,GHS-11858,is related to
+1012,GHS-8662,GHS-9107,Testing discovered
+1013,GHS-8662,GHS-9108,Testing discovered
+1014,GHS-8662,GHS-9112,Testing discovered
+1015,GHS-8662,GHS-9111,Testing discovered
+1016,GHS-8662,GHS-8634,is duplicated by
+1017,GHS-8662,GHS-9186,incorporates
+1018,GHS-8662,GHS-9159,incorporates
+1019,GHS-8662,GHS-7584,relates to
+1020,GHS-8662,GHS-9162,is related to
+1021,GHS-8667,GHS-5741,is related to
+1022,GHS-8667,GHS-5902,is related to
+1023,GHS-8675,GHS-8523,blocks
+1024,GHS-8685,GHS-7225,relates to
+1025,GHS-8716,BON-1827,was cloned as
+1026,GHS-8736,GHS-8739,was cloned as
+1027,GHS-8739,GHS-8736,is cloned from
+1028,GHS-8763,GHS-8772,is duplicated by
+1029,GHS-8763,GHS-8853,is duplicated by
+1030,GHS-8763,GHS-8881,is duplicated by
+1031,GHS-8763,GHS-8807,is duplicated by
+1032,GHS-8763,GHS-8950,is duplicated by
+1033,GHS-8795,GHS-8858,was cloned as
+1034,GHS-8795,GHS-9022,relates to
+1035,GHS-8858,GHS-8795,is cloned from
+1036,GHS-8858,GHS-9022,is duplicated by
+1037,GHS-8940,GHS-8828,is duplicated by
+1038,GHS-8942,GHS-9342,is related to
+1039,GHS-8974,GHS-7235,is duplicated by
+1040,GHS-8974,GHS-6992,incorporates
+1041,GHS-9013,GHS-9590,is duplicated by
+1042,GHS-9034,GHS-9096,is duplicated by
+1043,GHS-9138,GHS-9254,is duplicated by
+1044,GHS-9155,GHS-8153,incorporates
+1045,GHS-9155,GHS-7035,is related to
+1046,GHS-9158,GHS-9289,is duplicated by
+1047,GHS-9158,GHS-9378,is duplicated by
+1048,GHS-9162,GHS-8662,relates to
+1049,GHS-9162,GHS-6020,is related to
+1050,GHS-9240,GHS-11201,relates to
+1051,GHS-9316,GHS-6788,is related to
+1052,GHS-9316,GHS-8191,is related to
+1053,GHS-9364,GHS-7053,derived from
+1054,GHS-9364,GHS-9546,is duplicated by
+1055,GHS-9364,GHS-9432,is duplicated by
+1056,GHS-9418,JRA-37030,is caused by
+1057,GHS-9418,GHS-9512,is duplicated by
+1058,GHS-9419,GHS-9680,is duplicated by
+1059,GHS-9419,GHS-9441,is duplicated by
+1060,GHS-9419,GHS-9603,is duplicated by
+1061,GHS-9419,GHS-9603,is related to
+1062,GHS-9552,JRA-35644,is caused by
+1063,GHS-9552,GHS-9564,is related to
+1064,GHS-9591,GHS-9886,relates to
+1065,GHS-9702,GHS-9193,relates to
+1066,GHS-9702,GHS-9238,relates to
+1067,GHS-9702,JRA-33966,relates to
+1068,GHS-9702,GHS-9231,relates to
+1069,GHS-9730,GHS-9731,is duplicated by
+1070,GHS-9730,BON-1872,relates to
+1071,GHS-9732,GHS-9765,is duplicated by
+1072,GHS-9783,GHS-9885,Testing discovered
+1073,GHS-9783,GHS-9797,is caused by
+1074,GHS-9783,GHS-9790,is related to
+1075,GHS-9783,GHS-11334,is related to
+1076,GHS-9784,GHS-9797,duplicates
+1077,GHS-9784,GHS-9797,relates to
+1078,GHS-9790,GHS-11334,was cloned as
+1079,GHS-9790,GHS-9820,is duplicated by
+1080,GHS-9790,GHS-9785,is duplicated by
+1081,GHS-9790,GHS-9824,is duplicated by
+1082,GHS-9790,GHS-8169,is duplicated by
+1083,GHS-9790,GHS-9783,relates to
+1084,GHS-9790,GHS-8029,is related to
+1085,GHS-9790,GHS-9797,is related to
+1086,GHS-9790,GHS-9824,is related to
+1087,GHS-9797,GHS-9783,causes
+1088,GHS-9797,GHS-9919,was cloned as
+1089,GHS-9797,GHS-9784,is duplicated by
+1090,GHS-9797,GHS-9858,is duplicated by
+1091,GHS-9797,GHS-9810,is duplicated by
+1092,GHS-9797,GHS-8029,relates to
+1093,GHS-9797,GHS-9790,relates to
+1094,GHS-9797,GHS-9854,relates to
+1095,GHS-9797,GHS-11334,relates to
+1096,GHS-9797,GHS-9784,is related to
+1097,GHS-9883,GHS-10238,is related to
+1098,GHS-9885,GHS-9783,Discovered while testing
+1099,GHS-9916,GHS-9846,is duplicated by
+1100,GHS-9919,GHS-9797,is cloned from
+1101,GHS-9959,GHS-8850,is related to
+1102,GHS-9965,GHS-11122,causes
+1103,GHS-9965,GHS-10801,is duplicated by
+1104,GHS-9965,GHS-10054,is duplicated by
+1105,GHS-9965,GHS-11099,is duplicated by
+1106,GHS-9965,GHS-10067,is duplicated by
+1107,GHS-9965,GHS-11064,is duplicated by
+1108,GHS-9965,GHS-10937,relates to
+1109,GHS-9965,GHS-11099,is related to
+1110,GHS-9977,GHS-10628,is duplicated by
+1111,GHS-9977,GHS-9677,is duplicated by
+1112,GHS-9977,GHS-10657,is duplicated by
+1113,GHS-9977,GHS-8630,relates to
+1114,GHS-9977,GHS-10647,is related to
+1115,JRA-22582,JRA-39120,is duplicated by
+1116,JRA-23284,JRA-40599,relates to
+1117,JRA-28590,JRA-28572,relates to
+1118,JRA-28590,JRA-12411,is related to
+1119,JRA-29503,JRA-22207,derived from
+1120,JRA-29503,JRA-23255,is related to
+1121,JRA-33909,JRA-32187,duplicates
+1122,JRA-33909,JRA-33868,duplicates
+1123,JRA-34560,JRA-31581,Discovered while testing
+1124,JRA-35594,JRA-36326,is duplicated by
+1125,JRA-35594,JRA-37134,is duplicated by
+1126,JRA-35594,JRA-37973,is duplicated by
+1127,JRA-35594,JRA-38528,is duplicated by
+1128,JRA-35594,JRA-41257,is duplicated by
+1129,JRA-35594,JRA-42066,is duplicated by
+1130,JRA-35873,DCON-365,was cloned as
+1131,JRA-36291,CONF-30114,blocks
+1132,JRA-36291,CONF-30114,is related to
+1133,JRA-38149,JRA-38638,is duplicated by
+1134,JRA-38149,JRA-39034,is duplicated by
+1135,JRA-38149,CONF-36370,is related to
+1136,JRA-38149,CONF-36047,is a regression of
+1137,JRA-38149,JRA-29656,is a regression of
+1138,JRA-40573,CONF-35490,is related to
+1139,JRA-40573,JRA-37139,is related to
+1140,JRA-41280,JRA-41422,is duplicated by
+1141,JRA-41280,JRA-41646,is related to
+1142,JRA-41738,JRA-42565,was cloned as
+1143,STASH-2471,STASH-4814,relates to
+1144,STASH-2471,STASH-3099,is related to
+1145,STASH-2532,STASH-2632,is duplicated by
+1146,STASH-2744,STASH-7433,causes
+1147,STASH-2744,STASH-4802,is duplicated by
+1148,STASH-2744,STASH-2976,is duplicated by
+1149,STASH-2816,STASH-2951,is duplicated by
+1150,STASH-2816,STASH-3105,is related to
+1151,STASH-2816,STASH-2998,is related to
+1152,STASH-2816,STASH-3010,is related to
+1153,STASH-2816,STASH-3229,is related to
+1154,STASH-2823,STASH-4032,is duplicated by
+1155,STASH-2823,STASH-4370,is duplicated by
+1156,STASH-2823,STASH-4608,is duplicated by
+1157,STASH-2823,STASH-3229,is related to
+1158,STASH-2823,STASH-4630,is related to
+1159,STASH-2826,STASH-5324,is duplicated by
+1160,STASH-2826,STASH-2825,is related to
+1161,STASH-2826,STASH-3529,is related to
+1162,STASH-2826,STASH-7193,has a regression in
+1163,STASH-2862,STASH-3884,is related to
+1164,STASH-2878,STASH-2931,is detailed by
+1165,STASH-2900,STASH-2909,causes
+1166,STASH-2900,STASH-2909,is duplicated by
+1167,STASH-2903,CWD-3025,was split into
+1168,STASH-2924,STASH-2926,is duplicated by
+1169,STASH-2924,STASH-3119,is duplicated by
+1170,STASH-2924,STASH-4097,is duplicated by
+1171,STASH-2924,STASH-4726,is duplicated by
+1172,STASH-2924,STASH-7359,is duplicated by
+1173,STASH-2924,STASH-3750,is related to
+1174,STASH-2970,JRA-24515,relates to
+1175,STASH-2970,JRA-40968,is related to
+1176,STASH-2981,STASH-7143,relates to
+1177,STASH-2995,STASH-7332,is duplicated by
+1178,STASH-2995,STASH-7332,relates to
+1179,STASH-3057,STASH-3477,incorporates
+1180,STASH-3057,STASH-3461,relates to
+1181,STASH-3101,STASH-4666,was cloned as
+1182,STASH-3101,STASH-4629,is duplicated by
+1183,STASH-3101,STASH-4149,relates to
+1184,STASH-3160,SRCTREE-2072,relates to
+1185,STASH-3163,STASH-4782,is duplicated by
+1186,STASH-3163,STASH-4214,is related to
+1187,STASH-3163,STASH-3031,is related to
+1188,STASH-3177,STASH-4140,relates to
+1189,STASH-3177,STASH-5121,is related to
+1190,STASH-3177,STASH-6894,was split into
+1191,STASH-3177,STASH-6901,was split into
+1192,STASH-3177,STASH-6902,was split into
+1193,STASH-3295,STASH-4477,has a derivative of
+1194,STASH-3295,STASH-3635,duplicates
+1195,STASH-3395,STASH-3702,is related to
+1196,STASH-3423,STASH-4015,is duplicated by
+1197,STASH-3423,STASH-4056,is duplicated by
+1198,STASH-3423,STASH-3878,is duplicated by
+1199,STASH-3423,STASH-3438,is duplicated by
+1200,STASH-3423,STASH-3478,is duplicated by
+1201,STASH-3423,STASH-3530,is duplicated by
+1202,STASH-3423,STASH-3812,is duplicated by
+1203,STASH-3423,STASH-3813,is duplicated by
+1204,STASH-3423,STASH-3971,relates to
+1205,STASH-3424,STASH-7548,is duplicated by
+1206,STASH-3424,STASH-4514,relates to
+1207,STASH-3424,STASH-3323,relates to
+1208,STASH-3424,STASH-2978,is related to
+1209,STASH-3469,STASH-3938,is duplicated by
+1210,STASH-3515,STASH-5312,is duplicated by
+1211,STASH-3520,CWD-2373,is superseded by
+1212,STASH-3536,STASH-4423,is duplicated by
+1213,STASH-3536,STASH-4768,is duplicated by
+1214,STASH-3584,STASH-4063,is duplicated by
+1215,STASH-3584,STASH-4465,is duplicated by
+1216,STASH-3584,STASH-5053,is duplicated by
+1217,STASH-3584,STASH-4063,is related to
+1218,STASH-3584,STASH-7026,is related to
+1219,STASH-3632,STASH-3843,has a regression in
+1220,STASH-3635,STASH-3910,is duplicated by
+1221,STASH-3635,STASH-3295,is duplicated by
+1222,STASH-3635,STASH-4510,is duplicated by
+1223,STASH-3717,CWD-3756,is blocked by
+1224,STASH-3733,STASH-2552,relates to
+1225,STASH-3773,STASH-4940,is duplicated by
+1226,STASH-3777,BAM-13987,relates to
+1227,STASH-3777,FE-4960,relates to
+1228,STASH-3777,JRA-34550,is related to
+1229,STASH-3793,STASH-4472,relates to
+1230,STASH-3824,STASH-7144,was cloned as
+1231,STASH-3824,STASH-3980,is duplicated by
+1232,STASH-3829,STASH-4179,is duplicated by
+1233,STASH-3836,STASH-4128,has a derivative of
+1234,STASH-3836,STASH-3999,relates to
+1235,STASH-3859,STASH-3861,is duplicated by
+1236,STASH-3871,STASH-3588,is caused by
+1237,STASH-3888,STASH-3204,is duplicated by
+1238,STASH-3986,STASH-3253,relates to
+1239,STASH-4102,STASH-4098,is incorporated by
+1240,STASH-4112,STASH-4113,is duplicated by
+1241,STASH-4140,STASH-6903,relates to
+1242,STASH-4140,STASH-6904,relates to
+1243,STASH-4140,STASH-3177,is related to
+1244,STASH-4140,STASH-6899,was split into
+1245,STASH-4140,STASH-6894,was split into
+1246,STASH-4140,STASH-6895,was split into
+1247,STASH-4140,STASH-6896,was split into
+1248,STASH-4140,STASH-6898,was split into
+1249,STASH-4140,STASH-6900,was split into
+1250,STASH-4140,STASH-6901,was split into
+1251,STASH-4161,STASH-4210,is duplicated by
+1252,STASH-4190,STASH-7063,has a derivative of
+1253,STASH-4190,STASH-7188,is duplicated by
+1254,STASH-4257,STASH-5409,is incorporated by
+1255,STASH-4269,STASH-4270,relates to
+1256,STASH-4270,STASH-5075,is duplicated by
+1257,STASH-4270,STASH-4269,is related to
+1258,STASH-4298,STASH-4283,is duplicated by
+1259,STASH-4302,STASH-6981,is duplicated by
+1260,STASH-4322,STASH-4380,relates to
+1261,STASH-4362,CONF-32557,relates to
+1262,STASH-4407,STASH-4499,was cloned as
+1263,STASH-4407,STASH-4461,is duplicated by
+1264,STASH-4407,STASH-2492,is related to
+1265,STASH-4410,STASH-2492,is related to
+1266,STASH-4413,CONF-35047,relates to
+1267,STASH-4413,STASH-5244,is related to
+1268,STASH-4432,STASH-4503,is duplicated by
+1269,STASH-4474,CWD-3764,is caused by
+1270,STASH-4478,STASH-5484,is duplicated by
+1271,STASH-4499,STASH-4407,is cloned from
+1272,STASH-4499,STASH-4537,is duplicated by
+1273,STASH-4499,STASH-4525,is duplicated by
+1274,STASH-4499,STASH-4635,is duplicated by
+1275,STASH-4499,STASH-4656,is duplicated by
+1276,STASH-4499,STASH-4612,is related to
+1277,STASH-4499,STASH-2492,is related to
+1278,STASH-4501,STASH-5145,is duplicated by
+1279,STASH-4501,STASH-5223,relates to
+1280,STASH-4514,CWD-4289,relates to
+1281,STASH-4514,STASH-3424,is related to
+1282,STASH-4514,STASH-7332,is related to
+1283,STASH-4514,STASH-6954,is related to
+1284,STASH-4525,STASH-4499,duplicates
+1285,STASH-4537,STASH-4499,duplicates
+1286,STASH-4539,STASH-4221,is incorporated by
+1287,STASH-4601,STASH-7380,Testing discovered
+1288,STASH-4616,STASH-5523,duplicates
+1289,STASH-4616,STASH-5523,relates to
+1290,STASH-4636,STASH-5034,is duplicated by
+1291,STASH-4636,STASH-4746,is duplicated by
+1292,STASH-4696,STASH-4217,is related to
+1293,STASH-4722,STASH-4261,is related to
+1294,STASH-4730,FE-4963,is cloned from
+1295,STASH-4730,STASH-3558,is related to
+1296,STASH-4805,STASH-4814,relates to
+1297,STASH-4865,STASH-5274,causes
+1298,STASH-4865,STASH-5357,causes
+1299,STASH-4896,STASH-4898,is duplicated by
+1300,STASH-4896,STASH-4953,is duplicated by
+1301,STASH-4918,STASH-5122,is duplicated by
+1302,STASH-4978,STASH-4935,supersedes
+1303,STASH-4984,STASH-4992,is duplicated by
+1304,STASH-4984,STASH-5297,is duplicated by
+1305,STASH-4984,STASH-4992,is related to
+1306,STASH-4988,STASH-4380,relates to
+1307,STASH-5083,STASH-5105,is duplicated by
+1308,STASH-5086,STASH-5164,is duplicated by
+1309,STASH-5105,STASH-5083,duplicates
+1310,STASH-5121,STASH-4167,is duplicated by
+1311,STASH-5121,STASH-3177,relates to
+1312,STASH-5121,STASH-3677,relates to
+1313,STASH-5138,STASH-5140,is duplicated by
+1314,STASH-5150,STASH-5094,is duplicated by
+1315,STASH-5216,STASH-5272,is duplicated by
+1316,STASH-5216,STASH-5487,is duplicated by
+1317,STASH-5216,STASH-5430,is duplicated by
+1318,STASH-5218,STASH-5465,is related to
+1319,STASH-5228,STASH-5443,is related to
+1320,STASH-5262,STASH-5247,is duplicated by
+1321,STASH-5262,STASH-5407,is duplicated by
+1322,STASH-5295,STASH-5013,supersedes
+1323,STASH-5312,STASH-3515,duplicates
+1324,STASH-5335,STASH-5336,is related to
+1325,STASH-5336,STASH-5335,relates to
+1326,STASH-5339,STASH-4575,is duplicated by
+1327,STASH-5339,STASH-7241,is duplicated by
+1328,STASH-5443,STASH-7052,causes
+1329,STASH-5443,STASH-6918,is duplicated by
+1330,STASH-5443,STASH-5228,relates to
+1331,STASH-5465,STASH-5218,relates to
+1332,STASH-5490,STASH-7215,is duplicated by
+1333,STASH-5503,CONF-36416,is related to
+1334,STASH-6774,STASH-4631,is a regression of
+1335,STASH-6894,STASH-3177,was split from
+1336,STASH-6894,STASH-4140,was split from
+1337,STASH-6895,STASH-4140,was split from
+1338,STASH-6896,STASH-4140,was split from
+1339,STASH-6898,STASH-4140,was split from
+1340,STASH-6900,STASH-4140,was split from
+1341,STASH-6901,STASH-3177,was split from
+1342,STASH-6901,STASH-4140,was split from
+1343,STASH-6903,STASH-4140,is related to
+1344,STASH-6903,STASH-6902,is related to
+1345,STASH-6971,STASH-6973,has a derivative of
+1346,STASH-6973,STASH-6971,derived from
+1347,STASH-6998,STASH-7066,is duplicated by
+1348,STASH-7037,STASH-7651,is duplicated by
+1349,STASH-7058,STASH-6985,is duplicated by
+1350,STASH-7075,STASH-7084,has a derivative of
+1351,STASH-7075,STASH-5208,relates to
+1352,STASH-7083,CWD-4363,is caused by
+1353,STASH-7090,STASH-7293,relates to
+1354,STASH-7094,STASH-7130,is duplicated by
+1355,STASH-7094,STASH-7206,is duplicated by
+1356,STASH-7094,STASH-4628,is related to
+1357,STASH-7119,STASH-4631,relates to
+1358,STASH-7132,STASH-5248,is cloned from
+1359,STASH-7136,STASH-7137,causes
+1360,STASH-7136,STASH-7261,is incorporated by
+1361,STASH-7136,STASH-7137,relates to
+1362,STASH-7136,STASH-7351,is related to
+1363,STASH-7193,STASH-2826,is a regression of
+1364,STASH-7195,STASH-5428,is caused by
+1365,STASH-7195,CWD-4084,is caused by
+1366,STASH-7195,STASH-7423,was cloned as
+1367,STASH-7195,CONF-38736,relates to
+1368,STASH-7195,CWD-4084,relates to
+1369,STASH-7195,JRA-42566,is related to
+1370,STASH-7195,CWD-4301,is related to
+1371,STASH-7195,STASH-7423,has a regression in
+1372,STASH-7260,STASH-7461,is duplicated by
+1373,STASH-7261,STASH-7136,incorporates
+1374,STASH-7332,STASH-2995,duplicates
+1375,STASH-7332,STASH-4514,relates to
+1376,STASH-7332,STASH-2995,is related to
+1377,STASH-7342,STASH-7381,is duplicated by
+1378,STASH-7380,STASH-4601,Discovered while testing
+1379,STASH-7404,STASH-7416,duplicates
+1380,STASH-7406,STASH-7405,is duplicated by
+1381,STASH-7433,STASH-2744,is caused by
+1382,STASH-7443,STASH-7111,is duplicated by
+1383,STASH-7510,STASH-7512,is duplicated by
+1384,STASH-7510,STASH-7607,relates to
+1385,STASH-7512,STASH-7510,duplicates
+1386,STASH-7525,STASH-7490,relates to
+1387,STASH-7536,STASH-7395,is related to
+1388,STASH-7553,STASH-7594,duplicates
+1389,STASH-7553,STASH-7687,is duplicated by
+1390,TEAMCAL-1047,TEAMCAL-867,is incorporated by
+1391,TEAMCAL-1054,TEAMCAL-874,relates to
+1392,TEAMCAL-1065,TEAMCAL-2894,is duplicated by
+1393,TEAMCAL-1065,TEAMCAL-1351,is duplicated by
+1394,TEAMCAL-1065,TEAMCAL-429,relates to
+1395,TEAMCAL-1068,JRA-31179,incorporates
+1396,TEAMCAL-1080,TEAMCAL-1309,is duplicated by
+1397,TEAMCAL-1110,TEAMCAL-1442,is related to
+1398,TEAMCAL-1135,CONF-26586,relates to
+1399,TEAMCAL-1135,TEAMCAL-1139,is related to
+1400,TEAMCAL-1192,TEAMCAL-1783,is duplicated by
+1401,TEAMCAL-1192,TEAMCAL-763,relates to
+1402,TEAMCAL-1219,TEAMCAL-1704,has a regression in
+1403,TEAMCAL-1242,TEAMCAL-2606,duplicates
+1404,TEAMCAL-1247,TEAMCAL-2740,duplicates
+1405,TEAMCAL-1264,TEAMCAL-2190,is duplicated by
+1406,TEAMCAL-127,TEAMCAL-128,is duplicated by
+1407,TEAMCAL-127,TEAMCAL-417,relates to
+1408,TEAMCAL-1308,TEAMCAL-335,duplicates
+1409,TEAMCAL-1357,TEAMCAL-2052,is duplicated by
+1410,TEAMCAL-1357,TEAMCAL-2062,is duplicated by
+1411,TEAMCAL-1416,TEAMCAL-412,relates to
+1412,TEAMCAL-1427,TEAMCAL-1807,relates to
+1413,TEAMCAL-1457,CONF-29631,causes
+1414,TEAMCAL-1529,TEAMCAL-1622,is duplicated by
+1415,TEAMCAL-1532,TEAMCAL-2066,relates to
+1416,TEAMCAL-1532,TEAMCAL-558,relates to
+1417,TEAMCAL-1541,TEAMCAL-1646,blocks
+1418,TEAMCAL-1605,TEAMCAL-1823,is related to
+1419,TEAMCAL-1627,TEAMCAL-1641,relates to
+1420,TEAMCAL-1636,TEAMCAL-1653,is related to
+1421,TEAMCAL-1641,TEAMCAL-1627,is related to
+1422,TEAMCAL-1642,TEAMCAL-1654,relates to
+1423,TEAMCAL-1643,TEAMCAL-2404,duplicates
+1424,TEAMCAL-1643,TEAMCAL-1771,is duplicated by
+1425,TEAMCAL-1643,TEAMCAL-765,incorporates
+1426,TEAMCAL-1643,TEAMCAL-364,incorporates
+1427,TEAMCAL-1643,TEAMCAL-430,incorporates
+1428,TEAMCAL-1643,TEAMCAL-1649,incorporates
+1429,TEAMCAL-1643,TEAMCAL-1650,is incorporated by
+1430,TEAMCAL-1643,TEAMCAL-1022,relates to
+1431,TEAMCAL-1643,TEAMCAL-2295,relates to
+1432,TEAMCAL-1643,TEAMCAL-1845,is related to
+1433,TEAMCAL-1643,TEAMCAL-1861,is related to
+1434,TEAMCAL-1644,TEAMCAL-2204,blocks
+1435,TEAMCAL-1646,TEAMCAL-1541,is blocked by
+1436,TEAMCAL-1647,TEAMCAL-1676,is duplicated by
+1437,TEAMCAL-1647,TEAMCAL-1656,is duplicated by
+1438,TEAMCAL-1647,TEAMCAL-1702,is duplicated by
+1439,TEAMCAL-1649,TEAMCAL-1974,is duplicated by
+1440,TEAMCAL-1649,TEAMCAL-1643,is incorporated by
+1441,TEAMCAL-1649,TEAMCAL-1661,is related to
+1442,TEAMCAL-1649,TEAMCAL-1697,is related to
+1443,TEAMCAL-1651,TEAMCAL-1657,causes
+1444,TEAMCAL-1653,TEAMCAL-1636,relates to
+1445,TEAMCAL-1654,TEAMCAL-1859,is duplicated by
+1446,TEAMCAL-1654,TEAMCAL-2237,is duplicated by
+1447,TEAMCAL-1654,TEAMCAL-1642,is related to
+1448,TEAMCAL-1660,TEAMCAL-1667,is related to
+1449,TEAMCAL-1660,TEAMCAL-1678,is related to
+1450,TEAMCAL-1667,TEAMCAL-1675,is duplicated by
+1451,TEAMCAL-1667,TEAMCAL-1660,relates to
+1452,TEAMCAL-1672,CSI-1014,is related to
+1453,TEAMCAL-168,CONF-32981,is blocked by
+1454,TEAMCAL-168,TEAMCAL-2052,is duplicated by
+1455,TEAMCAL-168,TEAMCAL-2063,is duplicated by
+1456,TEAMCAL-168,TEAMCAL-2286,relates to
+1457,TEAMCAL-1683,TEAMCAL-581,duplicates
+1458,TEAMCAL-1683,TEAMCAL-581,is duplicated by
+1459,TEAMCAL-1683,TEAMCAL-558,relates to
+1460,TEAMCAL-1687,TEAMCAL-1154,incorporates
+1461,TEAMCAL-1736,TEAMCAL-2736,is duplicated by
+1462,TEAMCAL-1742,TEAMCAL-1744,is duplicated by
+1463,TEAMCAL-1742,TEAMCAL-1745,is duplicated by
+1464,TEAMCAL-1742,TEAMCAL-1756,relates to
+1465,TEAMCAL-175,TEAMCAL-566,is duplicated by
+1466,TEAMCAL-175,TEAMCAL-494,is duplicated by
+1467,TEAMCAL-175,CONF-24611,is related to
+1468,TEAMCAL-175,CONF-24850,is related to
+1469,TEAMCAL-1756,TEAMCAL-1742,is related to
+1470,TEAMCAL-1763,TEAMCAL-1773,is duplicated by
+1471,TEAMCAL-1773,TEAMCAL-1763,duplicates
+1472,TEAMCAL-1807,TEAMCAL-1427,is related to
+1473,TEAMCAL-1823,TEAMCAL-1824,is cloned from
+1474,TEAMCAL-1823,TEAMCAL-1605,relates to
+1475,TEAMCAL-1824,TEAMCAL-1823,was cloned as
+1476,TEAMCAL-185,TEAMCAL-710,is incorporated by
+1477,TEAMCAL-185,TEAMCAL-711,is incorporated by
+1478,TEAMCAL-185,TEAMCAL-712,is incorporated by
+1479,TEAMCAL-185,TEAMCAL-713,is incorporated by
+1480,TEAMCAL-185,TEAMCAL-714,is incorporated by
+1481,TEAMCAL-185,TEAMCAL-716,is incorporated by
+1482,TEAMCAL-185,TEAMCAL-776,is incorporated by
+1483,TEAMCAL-1884,TEAMCAL-1898,is duplicated by
+1484,TEAMCAL-1911,TEAMCAL-485,relates to
+1485,TEAMCAL-1936,TEAMCAL-1941,was cloned as
+1486,TEAMCAL-1936,TEAMCAL-1943,was cloned as
+1487,TEAMCAL-1941,TEAMCAL-1936,is cloned from
+1488,TEAMCAL-1941,TEAMCAL-1944,was cloned as
+1489,TEAMCAL-1943,TEAMCAL-1936,is cloned from
+1490,TEAMCAL-1943,TEAMCAL-1953,was cloned as
+1491,TEAMCAL-1944,TEAMCAL-1941,is cloned from
+1492,TEAMCAL-1944,TEAMCAL-1945,was cloned as
+1493,TEAMCAL-1945,TEAMCAL-1944,is cloned from
+1494,TEAMCAL-1945,TEAMCAL-1946,was cloned as
+1495,TEAMCAL-1946,TEAMCAL-1945,is cloned from
+1496,TEAMCAL-1949,TEAMCAL-1956,is duplicated by
+1497,TEAMCAL-1953,TEAMCAL-1943,is cloned from
+1498,TEAMCAL-1982,TEAMCAL-2697,is duplicated by
+1499,TEAMCAL-1983,TEAMCAL-2311,is related to
+1500,TEAMCAL-2023,TEAMCAL-2065,is duplicated by
+1501,TEAMCAL-2027,TEAMCAL-2032,duplicates
+1502,TEAMCAL-2027,TEAMCAL-2032,is related to
+1503,TEAMCAL-2032,TEAMCAL-2027,is duplicated by
+1504,TEAMCAL-2032,TEAMCAL-2027,relates to
+1505,TEAMCAL-2045,TEAMCAL-2600,duplicates
+1506,TEAMCAL-2045,TEAMCAL-2723,relates to
+1507,TEAMCAL-2116,TEAMCAL-2926,is duplicated by
+1508,TEAMCAL-2116,CONF-32765,relates to
+1509,TEAMCAL-2129,TEAMCAL-2189,is duplicated by
+1510,TEAMCAL-2180,CONF-32996,is cloned from
+1511,TEAMCAL-2239,TEAMCAL-2305,has a derivative of
+1512,TEAMCAL-2253,TEAMCAL-2252,duplicates
+1513,TEAMCAL-2311,TEAMCAL-1983,relates to
+1514,TEAMCAL-2477,TEAMCAL-2355,duplicates
+1515,TEAMCAL-2516,TEAMCAL-2532,is duplicated by
+1516,TEAMCAL-2532,TEAMCAL-2516,duplicates
+1517,TEAMCAL-2536,CONF-38507,is caused by
+1518,TEAMCAL-2536,CONF-38507,relates to
+1519,TEAMCAL-2568,TEAMCAL-2925,duplicates
+1520,TEAMCAL-258,TEAMCAL-650,is duplicated by
+1521,TEAMCAL-258,TEAMCAL-873,is duplicated by
+1522,TEAMCAL-258,TEAMCAL-273,is duplicated by
+1523,TEAMCAL-258,TEAMCAL-1232,is duplicated by
+1524,TEAMCAL-258,TEAMCAL-117,relates to
+1525,TEAMCAL-258,TEAMCAL-2375,is related to
+1526,TEAMCAL-2600,TEAMCAL-2045,is duplicated by
+1527,TEAMCAL-2629,TEAMCAL-2711,relates to
+1528,TEAMCAL-2637,TEAMCAL-2628,is duplicated by
+1529,TEAMCAL-2649,TEAMCAL-2646,is duplicated by
+1530,TEAMCAL-2689,CONF-36573,is duplicated by
+1531,TEAMCAL-2702,TEAMCAL-1725,duplicates
+1532,TEAMCAL-2718,TEAMCAL-2729,duplicates
+1533,TEAMCAL-2718,TEAMCAL-2714,duplicates
+1534,TEAMCAL-2718,TEAMCAL-2750,is duplicated by
+1535,TEAMCAL-2718,TEAMCAL-2729,is duplicated by
+1536,TEAMCAL-2718,TEAMCAL-2808,relates to
+1537,TEAMCAL-2723,TEAMCAL-2045,is related to
+1538,TEAMCAL-2738,TEAMCAL-2747,relates to
+1539,TEAMCAL-2747,TEAMCAL-2738,is related to
+1540,TEAMCAL-2799,TEAMCAL-3053,relates to
+1541,TEAMCAL-2815,TEAMCAL-2823,is related to
+1542,TEAMCAL-2895,TEAMCAL-3149,duplicates
+1543,TEAMCAL-2926,CONF-37745,is caused by
+1544,TEAMCAL-2926,TEAMCAL-2116,duplicates
+1545,TEAMCAL-298,TEAMCAL-473,is duplicated by
+1546,TEAMCAL-2996,TEAMCAL-1294,is related to
+1547,TEAMCAL-3011,TEAMCAL-2990,relates to
+1548,TEAMCAL-3052,TEAMCAL-3078,relates to
+1549,TEAMCAL-330,TEAMCAL-586,is related to
+1550,TEAMCAL-347,TEAMCAL-2074,is duplicated by
+1551,TEAMCAL-347,TEAMCAL-2914,is duplicated by
+1552,TEAMCAL-347,TEAMCAL-1302,is duplicated by
+1553,TEAMCAL-347,TEAMCAL-1446,is duplicated by
+1554,TEAMCAL-347,CONF-29782,is duplicated by
+1555,TEAMCAL-347,TEAMCAL-397,is duplicated by
+1556,TEAMCAL-347,TEAMCAL-1948,is duplicated by
+1557,TEAMCAL-347,TEAMCAL-722,is duplicated by
+1558,TEAMCAL-347,TEAMCAL-2973,relates to
+1559,TEAMCAL-374,TEAMCAL-384,is incorporated by
+1560,TEAMCAL-384,TEAMCAL-625,is duplicated by
+1561,TEAMCAL-384,TEAMCAL-554,is duplicated by
+1562,TEAMCAL-384,TEAMCAL-374,incorporates
+1563,TEAMCAL-384,TEAMCAL-613,incorporates
+1564,TEAMCAL-387,TEAMCAL-876,is duplicated by
+1565,TEAMCAL-387,TEAMCAL-920,is duplicated by
+1566,TEAMCAL-412,TEAMCAL-1416,is related to
+1567,TEAMCAL-412,TEAMCAL-411,is related to
+1568,TEAMCAL-417,JRA-12572,is blocked by
+1569,TEAMCAL-417,TEAMCAL-610,is duplicated by
+1570,TEAMCAL-417,TEAMCAL-911,is related to
+1571,TEAMCAL-417,TEAMCAL-719,is related to
+1572,TEAMCAL-417,TEAMCAL-1209,is related to
+1573,TEAMCAL-417,TEAMCAL-126,is related to
+1574,TEAMCAL-417,TEAMCAL-127,is related to
+1575,TEAMCAL-417,TEAMCAL-1997,is related to
+1576,TEAMCAL-417,TEAMCAL-987,is related to
+1577,TEAMCAL-507,TEAMCAL-2203,is duplicated by
+1578,TEAMCAL-507,TEAMCAL-1950,is duplicated by
+1579,TEAMCAL-507,TEAMCAL-2203,is related to
+1580,TEAMCAL-543,TEAMCAL-2566,duplicates
+1581,TEAMCAL-543,TEAMCAL-1051,is duplicated by
+1582,TEAMCAL-543,TEAMCAL-1751,is duplicated by
+1583,TEAMCAL-543,TEAMCAL-2378,is duplicated by
+1584,TEAMCAL-543,TEAMCAL-2700,is duplicated by
+1585,TEAMCAL-543,TEAMCAL-937,is duplicated by
+1586,TEAMCAL-543,TEAMCAL-1517,is duplicated by
+1587,TEAMCAL-543,TEAMCAL-624,relates to
+1588,TEAMCAL-558,TEAMCAL-1544,is related to
+1589,TEAMCAL-558,TEAMCAL-1532,is related to
+1590,TEAMCAL-558,TEAMCAL-1683,is related to
+1591,TEAMCAL-558,TEAMCAL-581,is related to
+1592,TEAMCAL-581,TEAMCAL-1683,duplicates
+1593,TEAMCAL-581,TEAMCAL-1683,is duplicated by
+1594,TEAMCAL-581,TEAMCAL-2066,is duplicated by
+1595,TEAMCAL-581,TEAMCAL-558,relates to
+1596,TEAMCAL-586,TEAMCAL-330,relates to
+1597,TEAMCAL-646,TEAMCAL-585,is cloned from
+1598,TEAMCAL-646,TEAMCAL-704,relates to
+1599,TEAMCAL-646,CLOUD-7654,relates to
+1600,TEAMCAL-704,TEAMCAL-646,is related to
+1601,TEAMCAL-708,TEAMCAL-709,is blocked by
+1602,TEAMCAL-708,TEAMCAL-739,incorporates
+1603,TEAMCAL-708,TEAMCAL-752,incorporates
+1604,TEAMCAL-709,TEAMCAL-708,blocks
+1605,TEAMCAL-712,TEAMCAL-185,incorporates
+1606,TEAMCAL-714,TEAMCAL-185,incorporates
+1607,TEAMCAL-716,TEAMCAL-185,incorporates
+1608,TEAMCAL-736,TEAMCAL-762,relates to
+1609,TEAMCAL-736,TEAMCAL-228,relates to
+1610,TEAMCAL-737,TEAMCAL-810,is duplicated by
+1611,TEAMCAL-737,TEAMCAL-1036,is related to
+1612,TEAMCAL-739,TEAMCAL-708,is incorporated by
+1613,TEAMCAL-741,TEAMCAL-743,is duplicated by
+1614,TEAMCAL-741,CONF-25727,relates to
+1615,TEAMCAL-752,TEAMCAL-708,is incorporated by
+1616,TEAMCAL-755,TEAMCAL-33,derived from
+1617,TEAMCAL-755,TEAMCAL-542,is duplicated by
+1618,TEAMCAL-761,TEAMCAL-784,is related to
+1619,TEAMCAL-762,TEAMCAL-736,is related to
+1620,TEAMCAL-784,TEAMCAL-761,relates to
+1621,TEAMCAL-798,TEAMCAL-799,blocks
+1622,TEAMCAL-799,TEAMCAL-798,is blocked by
+1623,TEAMCAL-828,TEAMCAL-838,relates to
+1624,TEAMCAL-838,TEAMCAL-828,is related to
+1625,TEAMCAL-845,TEAMCAL-218,is related to
+1626,TEAMCAL-854,TEAMCAL-915,is duplicated by
+1627,TEAMCAL-867,TEAMCAL-1047,incorporates
+1628,TEAMCAL-867,TEAMCAL-886,relates to
+1629,TEAMCAL-867,TEAMCAL-885,relates to
+1630,TEAMCAL-867,TEAMCAL-887,is related to
+1631,TEAMCAL-874,TEAMCAL-1054,is related to
+1632,TEAMCAL-879,TEAMCAL-1296,is duplicated by
+1633,TEAMCAL-879,TEAMCAL-2266,incorporates
+1634,TEAMCAL-879,TEAMCAL-537,relates to
+1635,TEAMCAL-879,TEAMCAL-2266,is related to
+1636,TEAMCAL-927,CONF-28542,relates to
+1637,TEAMCAL-939,TEAMCAL-317,relates to
+1638,TEAMCAL-945,TEAMCAL-946,is duplicated by
+1639,TEAMCAL-994,TEAMCAL-966,supersedes
+1640,TRANS-202,TRANS-820,relates to
+1641,TRANS-571,TRANS-554,relates to
+1642,TRANS-690,TRANS-709,is related to
+1643,TRANS-709,TRANS-690,relates to
+1644,TRANS-709,TRANS-711,is related to
+1645,TRANS-757,TRANS-743,derived from
+1646,TRANS-757,TRANS-833,duplicates
+1647,TRANS-757,TRANS-767,is related to
+1648,TRANS-767,TRANS-757,relates to
+1649,TRANS-767,JRA-35110,is related to
+1650,TRANS-820,TRANS-202,is related to
+1651,TRANS-824,TRANS-833,relates to
+1652,TRANS-828,TRANS-829,blocks
+1653,TRANS-828,TRANS-738,duplicates
+1654,TRANS-833,TRANS-864,blocks
+1655,TRANS-833,TRANS-757,is duplicated by
+1656,TRANS-833,TRANS-839,is duplicated by
+1657,TRANS-833,TRANS-854,is related to
+1658,TRANS-833,TRANS-824,is related to
+1659,TRANS-833,TRANS-855,is related to
+1660,TRANS-839,TRANS-833,duplicates
+1661,TRANS-839,TRANS-855,is related to
+1662,TRANS-845,TRANS-851,was cloned as
+1663,TRANS-845,TRANS-851,is duplicated by
+1664,TRANS-851,TRANS-845,is cloned from
+1665,TRANS-851,TRANS-845,duplicates
+1666,TRANS-864,TRANS-833,is blocked by
+1667,TRANS-969,TRANS-1011,relates to
+1668,TST-38983,TST-38982,is cloned from
