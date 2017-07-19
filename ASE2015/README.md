@@ -1,4 +1,4 @@
-# The datasets used in our paper entitled "Predicting delays in software projects using networked classification".
+# The datasets used in our paper entitled "Predicting delays in software projects using networked classification"
 
 [1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Predicting delays in software projects using networked classification,” in Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering, ASE 2015, 2016, pp. 353–364.
 
