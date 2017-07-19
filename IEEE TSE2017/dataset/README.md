@@ -8,8 +8,6 @@ In each project and in each prediction time consists of three csv files:
 Linking between an iteration with associated issues
 ---------------------------------------------------
 There are two primary keys: (boardid and sprintid) which are used to join iterations and issues.
-Iteration's primary keys: boardid and sprintid
-Issue's primary keys: boardid, sprintid, and issuekey
 
 List of issue links
 -------------------
