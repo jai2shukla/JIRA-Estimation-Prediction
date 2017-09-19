@@ -1,6 +1,6 @@
 # Datasets 
 
-## We provide the datasets used in our empirical studies and evaluations. The description is provided according to the type of datasets and associated work.
+## We provide the datasets used in our empirical studies and evaluations. The description is provided according to the type of datasets and the associated work.
 
 ### If you use our dataset, please cite our relevant paper in your publication. The ```bib ``` is also provided.
 
@@ -15,6 +15,8 @@ There are two groups of datasets according to the dataset's characteristics.
 * [```delay issues```](https://github.com/SEAnalytics/datasets/tree/master/delayed%20issues)
 
     These are the datasets on the delayed issues. We used these datasets in our work on predicting delayed issues which we published in [MSR2015](http://ieeexplore.ieee.org/document/7180087/), [ASE2015](http://dl.acm.org/citation.cfm?id=2916265), and in [the journal of Empirical Software Engineering](https://link.springer.com/article/10.1007%2Fs10664-016-9496-7). 
+
+Visit our homepage for more informaiton [SEA@UOW](https://seanalytics.github.io/)
 
  * * *
 
