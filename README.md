@@ -16,9 +16,27 @@ There are two groups of datasets according to the dataset's characteristics.
 
     These are the datasets on the delayed issues. We used these datasets in our work on predicting delayed issues. 
 
-<!-- - **MSR2015**: Characterization and prediction of issue-related risks in software projects
+ * * *
+
+ # bib
+
+- **MSR2015**: Characterization and prediction of issue-related risks in software projects
 
 [1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Characterization and prediction of issue-related risks in software projects,” in Proceedings of the 12th Working Conference on Mining Software Repositories (MSR), 2015, pp. 280–291.
+```
+@inproceedings{Morakot2015,
+author = {Choetkiertikul, Morakot and Dam, Hoa Khanh and Tran, Truyen and Ghose, Aditya},
+booktitle = {Proceedings of the IEEE/ACM 12th Working Conference on Mining Software Repositories (MSR)},
+doi = {10.1109/MSR.2015.33},
+isbn = {978-0-7695-5594-2},
+issn = {21601860},
+pages = {280--291},
+publisher = {IEEE},
+title = {{Characterization and Prediction of Issue-Related Risks in Software Projects}},
+url = {http://ieeexplore.ieee.org/document/7180087/},
+year = {2015}
+}
+```
 
 - **ASE2015**: Predicting delays in software projects using networked classification
 
@@ -30,7 +48,7 @@ There are two groups of datasets according to the dataset's characteristics.
 
 - **IEEE TSE2017**: Predicting Delivery Capability in Iterative Software Development
 
-[1] M. Choetkiertikul, H. K. Dam, T. Tran, A. Ghose, and J. Grundy, “Predicting Delivery Capability in Iterative Software Development,” IEEE Trans. Softw. Eng., vol. 14, no. 8, pp. 1–1, 2017. -->
+[1] M. Choetkiertikul, H. K. Dam, T. Tran, A. Ghose, and J. Grundy, “Predicting Delivery Capability in Iterative Software Development,” IEEE Trans. Softw. Eng., vol. 14, no. 8, pp. 1–1, 2017.
 
 
 
