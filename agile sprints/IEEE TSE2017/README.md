@@ -2,7 +2,8 @@
 # These are the datasets used in our paper titled "Predicting Delivery Capability in Iterative Software Development".
 
 [1] M. Choetkiertikul, H. K. Dam, T. Tran, A. Ghose, and J. Grundy, “Predicting Delivery Capability in Iterative Software Development,” IEEE Trans. Softw. Eng., vol. 14, no. 8, pp. 1–1, 2017.
-[preprint](https://github.com/SEAnalytics/datasets/blob/master/agile%20sprints/IEEE%20TSE2017/preprint_IEEETSE2017.pdf)
+
+### [preprint](https://github.com/SEAnalytics/datasets/blob/master/agile%20sprints/IEEE%20TSE2017/preprint_IEEETSE2017.pdf)
 
 ```
 @article{Choetkiertikul2017,
