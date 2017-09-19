@@ -10,11 +10,11 @@ There are two groups of datasets according to the dataset's characteristics.
 
 * [```agile sprints```](https://github.com/SEAnalytics/datasets/tree/master/agile%20sprints)
    
-    These are the datasets on the iterative development (e.g. sprint). Our work on these datasets focuses on predicting delivery capability in iterative development. 
+    These are the datasets on the iterative development (e.g. sprint). Our work on these datasets focuses on predicting delivery capability in iterative development. We published the work in [IEEE TSE](http://ieeexplore.ieee.org/document/7898472/)
 
 * [```delay issues```](https://github.com/SEAnalytics/datasets/tree/master/delayed%20issues)
 
-    These are the datasets on the delayed issues. We used these datasets in our work on predicting delayed issues. 
+    These are the datasets on the delayed issues. We used these datasets in our work on predicting delayed issues which we published in [MSR2015](http://ieeexplore.ieee.org/document/7180087/), [ASE2015](http://dl.acm.org/citation.cfm?id=2916265), and in [the journal of Empirical Software Engineering](https://link.springer.com/article/10.1007%2Fs10664-016-9496-7). 
 
  * * *
 
