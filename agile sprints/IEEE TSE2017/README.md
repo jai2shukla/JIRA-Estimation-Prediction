@@ -18,11 +18,27 @@ year = {2017}
 ```
 ***
 
-**Description**
+Description
+-----------
 
 We provide our datasets: the iterations and the associated issues, and our source code: the feature aggregations and the randomised ensemble methods to build predictive models.
 
 The dataset consists of the iterations and the associated issues collected from five open source projects: Apache, JBoss, JIRA, MongoDB, Spring. In each project we provide the features of iterations, the features of issues, and the list of issue links extracted from four different prediction times: 0%, 30%, 50%, and 80% of planning duration.
+
+In each project and in each prediction time consists of three csv files: 
+    1. the features of iterations named as project_iteration_prediction time (e.g. apache_iteration_30)
+    2. the features of issues named as project_issue_prediction time (e.g. apache_issue_30)
+    3. the list of issue links named as project_issuelink_prediction time (e.g. apache_issuelink_30)
+
+Linking between an iteration with associated issues
+---------------------------------------------------
+There are two primary keys: (boardid and sprintid) which are used to join iterations and issues.
+
+List of issue links
+-------------------
+An issue link is provided as a pair of issue keys and link name.
+For example, 'CB-3401', 'CB-3928', 'is blocked by' This shows that issue CB-3401 is blocked by issue CB-3928.
+
 
 
 <!-- **Source code**
