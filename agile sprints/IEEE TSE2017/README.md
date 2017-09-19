@@ -18,9 +18,9 @@ year = {2017}
 ```
 ***
 
-We provide our datasets: the iterations and the associated issues, and our source code: the feature aggregations and the randomised ensemble methods to build predictive models.
+**Description**
 
-**Dataset**
+We provide our datasets: the iterations and the associated issues, and our source code: the feature aggregations and the randomised ensemble methods to build predictive models.
 
 The dataset consists of the iterations and the associated issues collected from five open source projects: Apache, JBoss, JIRA, MongoDB, Spring. In each project we provide the features of iterations, the features of issues, and the list of issue links extracted from four different prediction times: 0%, 30%, 50%, and 80% of planning duration.
 

@@ -2,7 +2,20 @@
 
 [1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Predicting delays in software projects using networked classification,” in Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering, ASE 2015, 2016, pp. 353–364.
 
-**Dataset**
+```
+@inproceedings{Choetkiertikul2015,
+title = {{Predicting delays in software projects using networked classification}},
+author = {Choetkiertikul, Morakot and Dam, Hoa Khanh and Tran, Truyen and Ghose, Aditya},
+booktitle = {Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+doi = {10.1109/ASE.2015.55},
+isbn = {9781509000241},
+pages = {353--364},
+year = {2015}
+}
+```
+***
+
+**Description**
 
 Each dataset consists of task reports and linked data (explicit and implicit links).
 1. A task in task reports consists of 3 JSON files:
