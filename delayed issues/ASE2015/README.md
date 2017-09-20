@@ -2,6 +2,8 @@
 
 [1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Predicting delays in software projects using networked classification,” in Proceedings of the 30th IEEE/ACM International Conference on Automated Software Engineering, ASE 2015, 2016, pp. 353–364.
 
+### [preprint](https://github.com/SEAnalytics/datasets/blob/master/delayed%20issues/ASE2015/preprint_ASE2015.pdf)
+
 ```
 @inproceedings{Choetkiertikul2015,
 title = {{Predicting delays in software projects using networked classification}},

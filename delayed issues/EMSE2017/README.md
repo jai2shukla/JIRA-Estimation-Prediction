@@ -1,6 +1,9 @@
 # These are the datasets for our paper entitled "Predicting the delay of issues with due dates in software projects".
 
 *[1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Predicting the delay of issues with due dates in software projects,” Empir. Softw. Eng., vol. 22, no. 3, pp. 1223–1263, 2017.*
+
+### [preprint](https://github.com/SEAnalytics/datasets/blob/master/delayed%20issues/EMSE2017/preprint_EMSE2017.pdf)
+
 ```
 @article{Choetkiertikul2017,
 title = {{Predicting the delay of issues with due dates in software projects}},

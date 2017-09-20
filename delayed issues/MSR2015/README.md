@@ -2,6 +2,8 @@
 
 *[1] M. Choetkiertikul, H. K. Dam, T. Tran, and A. Ghose, “Characterization and prediction of issue-related risks in software projects,” in Proceedings of the 12th IEEE/ACM Working Conference on Mining Software Repositories (MSR), 2015, pp. 280–291.
 
+### [preprint](https://github.com/SEAnalytics/datasets/blob/master/delayed%20issues/MSR2015/preprint_MSR2015.pdf)
+
 ```
 @inproceedings{Morakot2015,
 title = {{Characterization and Prediction of Issue-Related Risks in Software Projects}},
