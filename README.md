@@ -28,21 +28,22 @@ Visit our homepage for more informaiton [SEA@UOW](https://seanalytics.github.io/
 
  # bib
 
-- **IEEE TSE2018**: Predicting Delivery Capability in Iterative Software Development
+- **IEEE TSE2018**: A deep learning model for estimating story points
 
-[1] M. Choetkiertikul, H. K. Dam, T. Tran, A. Ghose, and J. Grundy, “Predicting Delivery Capability in Iterative Software Development,” IEEE Trans. Softw. Eng., vol. 14, no. 8, pp. 1–1, 2017.
+[1] M. Choetkiertikul, H. K. Dam, T. Tran, T. T. M. Pham, A. Ghose, and T. Menzies, “A deep learning model for estimating story points,” IEEE Trans. Softw. Eng., vol. PP, no. 99, p. 1, 2018.
 
 ```
-@article{Choetkiertikul2017,
-title = {{Predicting Delivery Capability in Iterative Software Development}},
-author = {Choetkiertikul, Morakot and Dam, Hoa Khanh and Tran, Truyen and Ghose, Aditya and Grundy, John},
-doi = {10.1109/TSE.2017.2693989},
-issn = {0098-5589},
+@article{Choetkiertikul2018,
+author = {Choetkiertikul, M and Dam, H K and Tran, T and Pham, T T M and Ghose, A and Menzies, T},
+doi = {10.1109/TSE.2018.2792473},
+issn = {0098-5589 VO  - PP},
 journal = {IEEE Transactions on Software Engineering},
-number = {8},
-pages = {1--1},
-volume = {14},
-year = {2017}
+keywords = {Electronic mail,Estimation,Machine learning,Planning,Predictive models,Software,Springs,deep learning,effort estimation,software analytics,story point estimation},
+number = {99},
+pages = {1},
+title = {{A deep learning model for estimating story points}},
+volume = {PP},
+year = {2018}
 }
 ```
 
