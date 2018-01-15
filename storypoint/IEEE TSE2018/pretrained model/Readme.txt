@@ -1,0 +1,3 @@
+---Pre-trained model---
+
+Pre-training the embedding and LSTM using 50,000 issues takes a very long time. As our experiments chose to test with four different embedding sizes: 10, 50, 100, and 200 dimensions, we provided the pre-trained model for each repository contained in "repository name.zip". The pre-trained models are provided in HDF5 format named as "lstm2v_<repository name>_dim<number of dimension>.hdf5" e.g. lstm2v_apache_dim10.hdf5.
