@@ -1,0 +1,353 @@
+{
+    "editmeta": {
+        "fields": {}
+    }, 
+    "changelog": {
+        "total": 6, 
+        "startAt": 0, 
+        "histories": [
+            {
+                "items": [
+                    {
+                        "from": null, 
+                        "field": "Planned Start", 
+                        "fromString": "", 
+                        "to": "initialized without having effort estimation", 
+                        "toString": "2015-01-14 (initialized without having effort estimation)", 
+                        "fieldtype": "custom"
+                    }, 
+                    {
+                        "from": null, 
+                        "field": "Planned End", 
+                        "fromString": "", 
+                        "to": "initialized without having effort estimation", 
+                        "toString": "2015-01-14 (initialized without having effort estimation)", 
+                        "fieldtype": "custom"
+                    }
+                ], 
+                "created": "2015-01-14T23:02:51.000+0000", 
+                "id": "1179660", 
+                "author": {
+                    "displayName": "Carl Fearby", 
+                    "name": "neofuture", 
+                    "self": "https://jira.appcelerator.org/rest/api/2/user?username=neofuture", 
+                    "avatarUrls": {
+                        "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&avatarId=10192", 
+                        "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&avatarId=10192", 
+                        "48x48": "https://jira.appcelerator.org/secure/useravatar?avatarId=10192", 
+                        "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&avatarId=10192"
+                    }, 
+                    "emailAddress": "neofuture@gmail.com", 
+                    "key": "neofuture", 
+                    "active": true, 
+                    "timeZone": "Europe/London"
+                }
+            }, 
+            {
+                "items": [
+                    {
+                        "from": "6", 
+                        "field": "priority", 
+                        "fromString": "None", 
+                        "to": "2", 
+                        "toString": "High", 
+                        "fieldtype": "jira"
+                    }
+                ], 
+                "created": "2015-02-16T09:26:02.000+0000", 
+                "id": "1201906", 
+                "author": {
+                    "displayName": "Carl Fearby", 
+                    "name": "neofuture", 
+                    "self": "https://jira.appcelerator.org/rest/api/2/user?username=neofuture", 
+                    "avatarUrls": {
+                        "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&avatarId=10192", 
+                        "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&avatarId=10192", 
+                        "48x48": "https://jira.appcelerator.org/secure/useravatar?avatarId=10192", 
+                        "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&avatarId=10192"
+                    }, 
+                    "emailAddress": "neofuture@gmail.com", 
+                    "key": "neofuture", 
+                    "active": true, 
+                    "timeZone": "Europe/London"
+                }
+            }, 
+            {
+                "items": [
+                    {
+                        "from": "190004", 
+                        "field": "Workflow", 
+                        "fromString": "Appc-Jira", 
+                        "to": "204808", 
+                        "toString": "Titanium full", 
+                        "fieldtype": "jira"
+                    }
+                ], 
+                "created": "2015-03-23T08:07:19.000+0000", 
+                "id": "1227593", 
+                "author": {
+                    "displayName": "Nikolai Derzhak", 
+                    "name": "nderzhak", 
+                    "self": "https://jira.appcelerator.org/rest/api/2/user?username=nderzhak", 
+                    "avatarUrls": {
+                        "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&ownerId=nderzhak&avatarId=10067", 
+                        "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&ownerId=nderzhak&avatarId=10067", 
+                        "48x48": "https://jira.appcelerator.org/secure/useravatar?ownerId=nderzhak&avatarId=10067", 
+                        "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&ownerId=nderzhak&avatarId=10067"
+                    }, 
+                    "emailAddress": "nderzhak@appcelerator.com", 
+                    "key": "nderzhak", 
+                    "active": true, 
+                    "timeZone": "Europe/Helsinki"
+                }
+            }, 
+            {
+                "items": [
+                    {
+                        "from": "204808", 
+                        "field": "Workflow", 
+                        "fromString": "Titanium full", 
+                        "to": "224802", 
+                        "toString": "Copy 12 of Titanium full", 
+                        "fieldtype": "jira"
+                    }
+                ], 
+                "created": "2015-03-31T14:25:01.000+0000", 
+                "id": "1251176", 
+                "author": {
+                    "displayName": "Nikolai Derzhak", 
+                    "name": "nderzhak", 
+                    "self": "https://jira.appcelerator.org/rest/api/2/user?username=nderzhak", 
+                    "avatarUrls": {
+                        "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&ownerId=nderzhak&avatarId=10067", 
+                        "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&ownerId=nderzhak&avatarId=10067", 
+                        "48x48": "https://jira.appcelerator.org/secure/useravatar?ownerId=nderzhak&avatarId=10067", 
+                        "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&ownerId=nderzhak&avatarId=10067"
+                    }, 
+                    "emailAddress": "nderzhak@appcelerator.com", 
+                    "key": "nderzhak", 
+                    "active": true, 
+                    "timeZone": "Europe/Helsinki"
+                }
+            }, 
+            {
+                "items": [
+                    {
+                        "from": "224802", 
+                        "field": "Workflow", 
+                        "fromString": "Copy 12 of Titanium full", 
+                        "to": "269176", 
+                        "toString": "Copy 13 of Titanium full", 
+                        "fieldtype": "jira"
+                    }
+                ], 
+                "created": "2015-05-06T11:17:38.000+0000", 
+                "id": "1309705", 
+                "author": {
+                    "displayName": "Nikolai Derzhak", 
+                    "name": "nderzhak", 
+                    "self": "https://jira.appcelerator.org/rest/api/2/user?username=nderzhak", 
+                    "avatarUrls": {
+                        "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&ownerId=nderzhak&avatarId=10067", 
+                        "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&ownerId=nderzhak&avatarId=10067", 
+                        "48x48": "https://jira.appcelerator.org/secure/useravatar?ownerId=nderzhak&avatarId=10067", 
+                        "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&ownerId=nderzhak&avatarId=10067"
+                    }, 
+                    "emailAddress": "nderzhak@appcelerator.com", 
+                    "key": "nderzhak", 
+                    "active": true, 
+                    "timeZone": "Europe/Helsinki"
+                }
+            }, 
+            {
+                "items": [
+                    {
+                        "from": "2", 
+                        "field": "priority", 
+                        "fromString": "High", 
+                        "to": "1", 
+                        "toString": "Critical", 
+                        "fieldtype": "jira"
+                    }
+                ], 
+                "created": "2015-06-10T08:09:02.000+0000", 
+                "id": "1351837", 
+                "author": {
+                    "displayName": "Carl Fearby", 
+                    "name": "neofuture", 
+                    "self": "https://jira.appcelerator.org/rest/api/2/user?username=neofuture", 
+                    "avatarUrls": {
+                        "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&avatarId=10192", 
+                        "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&avatarId=10192", 
+                        "48x48": "https://jira.appcelerator.org/secure/useravatar?avatarId=10192", 
+                        "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&avatarId=10192"
+                    }, 
+                    "emailAddress": "neofuture@gmail.com", 
+                    "key": "neofuture", 
+                    "active": true, 
+                    "timeZone": "Europe/London"
+                }
+            }
+        ], 
+        "maxResults": 6
+    }, 
+    "fields": {
+        "customfield_11790": null, 
+        "customfield_12192": null, 
+        "customfield_12193": null, 
+        "customfield_12190": "0|i0bpw7:", 
+        "customfield_12191": "0|i0c993:", 
+        "customfield_11690": null, 
+        "labels": [
+            "array", 
+            "msg", 
+            "php"
+        ], 
+        "watches": {
+            "self": "https://jira.appcelerator.org/rest/api/2/issue/APSTUD-8374/watchers", 
+            "watchCount": 1, 
+            "isWatching": false
+        }, 
+        "assignee": {
+            "displayName": "Ingo Muschenetz", 
+            "name": "ingo", 
+            "self": "https://jira.appcelerator.org/rest/api/2/user?username=ingo", 
+            "avatarUrls": {
+                "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&ownerId=ingo&avatarId=10066", 
+                "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&ownerId=ingo&avatarId=10066", 
+                "48x48": "https://jira.appcelerator.org/secure/useravatar?ownerId=ingo&avatarId=10066", 
+                "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&ownerId=ingo&avatarId=10066"
+            }, 
+            "emailAddress": "ingo@appcelerator.com", 
+            "key": "ingo", 
+            "active": true, 
+            "timeZone": "America/Los_Angeles"
+        }, 
+        "lastViewed": null, 
+        "issuelinks": [], 
+        "customfield_11492": "2015-01-14", 
+        "customfield_11493": "2015-01-14", 
+        "customfield_11490": "68521", 
+        "customfield_11491": null, 
+        "customfield_11496": null, 
+        "customfield_11497": null, 
+        "customfield_11494": null, 
+        "customfield_11495": null, 
+        "priority": {
+            "iconUrl": "https://jira.appcelerator.org/images/icons/priorities/blocker.png", 
+            "self": "https://jira.appcelerator.org/rest/api/2/priority/1", 
+            "id": "1", 
+            "name": "Critical"
+        }, 
+        "creator": {
+            "displayName": "Carl Fearby", 
+            "name": "neofuture", 
+            "self": "https://jira.appcelerator.org/rest/api/2/user?username=neofuture", 
+            "avatarUrls": {
+                "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&avatarId=10192", 
+                "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&avatarId=10192", 
+                "48x48": "https://jira.appcelerator.org/secure/useravatar?avatarId=10192", 
+                "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&avatarId=10192"
+            }, 
+            "emailAddress": "neofuture@gmail.com", 
+            "key": "neofuture", 
+            "active": true, 
+            "timeZone": "Europe/London"
+        }, 
+        "customfield_10590": "71484", 
+        "fixVersions": [], 
+        "environment": "Intel Mac", 
+        "duedate": null, 
+        "status": {
+            "statusCategory": {
+                "id": 2, 
+                "self": "https://jira.appcelerator.org/rest/api/2/statuscategory/2", 
+                "colorName": "blue-gray", 
+                "key": "new", 
+                "name": "To Do"
+            }, 
+            "description": "The issue is open and ready for the assignee to start work on it.", 
+            "self": "https://jira.appcelerator.org/rest/api/2/status/1", 
+            "iconUrl": "https://jira.appcelerator.org/images/icons/statuses/open.png", 
+            "id": "1", 
+            "name": "Open"
+        }, 
+        "updated": "2015-10-08T22:12:37.000+0000", 
+        "customfield_10492": null, 
+        "subtasks": [], 
+        "description": "The following line reports as a syntax error but works as expected by php\r\n\r\n        while(msg_stat_queue($seg)['msg_qnum']>0){ \r\n            \tmsg_receive($seg, $argv[2], $msgtype, 40960, $msg);\r\n\t    \techo \"Message pulled from queue - id:{$msg->id}, name:{$msg->name} \\n\";\r\n\t    \t$msgtype = NULL;\r\n\t\t$msg = NULL;\r\n\t}\r\n\r\nthe line\r\n\r\nwhile(msg_stat_queue($seg)['msg_qnum']>0){ \r\n\r\nreports as a syntax error, i realise this is a weird error, but it still shows as a syntax error when the syntax is correct ", 
+        "reporter": {
+            "displayName": "Carl Fearby", 
+            "name": "neofuture", 
+            "self": "https://jira.appcelerator.org/rest/api/2/user?username=neofuture", 
+            "avatarUrls": {
+                "24x24": "https://jira.appcelerator.org/secure/useravatar?size=small&avatarId=10192", 
+                "16x16": "https://jira.appcelerator.org/secure/useravatar?size=xsmall&avatarId=10192", 
+                "48x48": "https://jira.appcelerator.org/secure/useravatar?avatarId=10192", 
+                "32x32": "https://jira.appcelerator.org/secure/useravatar?size=medium&avatarId=10192"
+            }, 
+            "emailAddress": "neofuture@gmail.com", 
+            "key": "neofuture", 
+            "active": true, 
+            "timeZone": "Europe/London"
+        }, 
+        "customfield_10005": null, 
+        "customfield_10003": 1, 
+        "customfield_10000": null, 
+        "customfield_10001": null, 
+        "created": "2015-01-14T23:02:50.000+0000", 
+        "customfield_11694": null, 
+        "versions": [
+            {
+                "archived": false, 
+                "name": "Aptana Studio 3.6.0", 
+                "self": "https://jira.appcelerator.org/rest/api/2/version/15420", 
+                "releaseDate": "2014-07-16", 
+                "released": true, 
+                "id": "15420"
+            }
+        ], 
+        "resolutiondate": null, 
+        "summary": "Syntax Error incorrectly reported", 
+        "project": {
+            "name": "Aptana Studio", 
+            "self": "https://jira.appcelerator.org/rest/api/2/project/10216", 
+            "avatarUrls": {
+                "24x24": "https://jira.appcelerator.org/secure/projectavatar?size=small&pid=10216&avatarId=10271", 
+                "16x16": "https://jira.appcelerator.org/secure/projectavatar?size=xsmall&pid=10216&avatarId=10271", 
+                "48x48": "https://jira.appcelerator.org/secure/projectavatar?pid=10216&avatarId=10271", 
+                "32x32": "https://jira.appcelerator.org/secure/projectavatar?size=medium&pid=10216&avatarId=10271"
+            }, 
+            "projectCategory": {
+                "id": "10100", 
+                "self": "https://jira.appcelerator.org/rest/api/2/projectCategory/10100", 
+                "name": "Client", 
+                "description": ""
+            }, 
+            "key": "APSTUD", 
+            "id": "10216"
+        }, 
+        "components": [
+            {
+                "id": "10709", 
+                "self": "https://jira.appcelerator.org/rest/api/2/component/10709", 
+                "name": "PHP", 
+                "description": "PHP Editor"
+            }
+        ], 
+        "issuetype": {
+            "description": "A problem which impairs or prevents the functions of the product.", 
+            "self": "https://jira.appcelerator.org/rest/api/2/issuetype/1", 
+            "iconUrl": "https://jira.appcelerator.org/images/icons/issuetypes/bug.png", 
+            "subtask": false, 
+            "id": "1", 
+            "name": "Bug"
+        }, 
+        "resolution": null
+    }, 
+    "self": "https://jira.appcelerator.org/rest/api/latest/issue/142835", 
+    "key": "APSTUD-8374", 
+    "transitions": [], 
+    "id": "142835", 
+    "expand": "operations,editmeta,changelog,transitions,renderedFields"
+}
