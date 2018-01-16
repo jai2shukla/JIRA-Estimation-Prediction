@@ -1,4 +1,4 @@
----Story point dataset---
+*Story point dataset*
 
 The dataset consists of 16 csv files from 16 projects collected from 9 open source repositories which the file is named as "<project name>.csv" e.g. mesos.csv. The following table shows the list of projects and the repositories where the project was collected from.   
 
