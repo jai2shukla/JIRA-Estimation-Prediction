@@ -17,5 +17,9 @@ title = {{A deep learning model for estimating story points}},
 volume = {PP},
 year = {2018}
 }
+```
 
-***
+These are the datasets and supplementary resources for our submission entitled: A deep learning model for estimating story points
+
+For verifiability, we provided our story points datasets (the issues with story points from 16 projects collected from 9 open source repositories), the pre-train data (the title and the description of the issues without story points collected from 9 open source repositories) that has been used for pre-training LSTM, the pre-trained LSTM models, and our LD-RNN source code including the script to run the experiments.
+
