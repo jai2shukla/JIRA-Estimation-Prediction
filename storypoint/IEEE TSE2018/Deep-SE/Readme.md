@@ -8,5 +8,5 @@
 
 --to do--
 
-check all files, write a run script, remove password
+check all files, write a run script, remove password, add classifier files
 
