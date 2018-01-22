@@ -1,6 +1,6 @@
 import os
 
-model = 'w2v'  # 'lm' if using lstm,
+model = 'lm'  # 'lm' if using lstm,
 # 'bi' if using 'bilinear'
 # 'w2v' if using 'word2vec'
 # dims = ['100', '15', '20'] #, '15', '20']

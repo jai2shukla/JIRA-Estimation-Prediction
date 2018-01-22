@@ -1,5 +1,3 @@
-__author__ = 'ptmin'
-
 import os
 
 mode = 'pretrain'

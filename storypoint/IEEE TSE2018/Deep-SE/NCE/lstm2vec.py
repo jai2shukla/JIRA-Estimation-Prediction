@@ -1,4 +1,3 @@
-__author__ = 'ptmin'
 from keras.layers import *
 from keras.models import Model
 from keras.constraints import *

@@ -1,5 +1,3 @@
-__author__ = 'ptmin'
-
 import os
 
 mode = 'lstm2vec'  # mode = 'pretrain' for pretraining
