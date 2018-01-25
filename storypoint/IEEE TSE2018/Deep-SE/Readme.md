@@ -22,6 +22,7 @@ e.g. appceleratorstudio_lstm_highway_dim10_reginphid_prefixed_lm_poolmean.txt
 --to be added--
 
 ## setup instruction
+## list of dependency
 ## how to use
 ## configuration
 
