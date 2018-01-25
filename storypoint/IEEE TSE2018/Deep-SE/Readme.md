@@ -22,7 +22,18 @@ e.g. appceleratorstudio_lstm_highway_dim10_reginphid_prefixed_lm_poolmean.txt
 --to be added--
 
 ## setup instruction
-## list of dependency
+
+## Dependencies
+List of code dependencies and install command <br>
+**beautifulsoup4**: `pip install BeautifulSoup4` <br>
+**MySQLdb**: `pip install MySQLdb` <br>
+**json**: `pip install json` <br>
+**numpy**: `pip install numpy` <br>
+**pandas**: `pip install pandas` <br>
+**cPickle**: `pip install cpickle` <br>
+**SciPy**: `pip install scipy` <br>
+**scikit-learn**: `ppip install scikit-learn` <br>
+
 ## how to use
 ## configuration
 
