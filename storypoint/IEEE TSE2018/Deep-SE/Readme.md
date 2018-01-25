@@ -22,16 +22,9 @@ To run the tool on your own data, you need to change the following to match with
 | Folder         | File           | Variable     | Note                                                |
 |----------------|----------------|--------------|-----------------------------------------------------|
 | data           | run_script     | databaseDict | Pairs of dataset filename and its pretrain filename |
-|                |                | dataPres     | Pretrain file name                                  |
-| NCE            | exp_lstm2v_pre | dataPres     | Pretrain file name                                  |
+|                |                | dataPres     | Pretrain data file name                             |
+| NCE            | exp_lstm2v_pre | dataPres     | Pretrain data file name                             |
 | classification | exp_script     | databaseDict | Pairs of dataset filename and its pretrain filename |
-
---to be added--
-
-list of hyperparameters for configuration
---to be added--
-
-## setup instruction
 
 ## Dependencies
 List of code dependencies and install command <br>
@@ -46,10 +39,20 @@ List of code dependencies and install command <br>
 
 Theano, keras 
 
+
+
+
+
+--to be added--
+
+list of hyperparameters for configuration
+--to be added--
+
+## setup instruction
 ## how to use
 ## configuration
 
---to do--
-
-check all files, write a run script, remove password from data preprocessing, add classifier files
+# todo
+ - add a proper story point report (issue key, des, estimated SP)
+ - check all files, write a run script, remove password from data preprocessing, add classifier files
 
