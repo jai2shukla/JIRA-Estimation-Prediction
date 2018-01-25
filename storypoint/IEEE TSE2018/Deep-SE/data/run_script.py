@@ -12,7 +12,6 @@ datasetDict = {
     , 'bamboo': 'jira'
     , 'clover': 'jira'
     , 'jirasoftware': 'jira'
-    , 'crucible':'jira'
     , 'moodle': 'moodle'
     , 'datamanagement': 'lsstcorp'
     , 'mule': 'mulesoft'
@@ -57,14 +56,15 @@ for project, repo in datasetDict.items():
     print cmd
     os.system(cmd)
 
+for dataPre in dataPres:
+    print project + ' ' + repo
+    cmd = 'python preprocess.py ' + dataPre
+    print cmd
+    os.system(cmd)
+
 for project, repo in datasetDict.items():
     print project + ' ' + repo
     cmd = 'python preprocess_storypoint.py ' + project + ' ' + repo
     print cmd
     os.system(cmd)
 
-for dataPre in dataPres:
-    print project + ' ' + repo
-    cmd = 'python preprocess.py ' + dataPre
-    print cmd
-    os.system(cmd)
