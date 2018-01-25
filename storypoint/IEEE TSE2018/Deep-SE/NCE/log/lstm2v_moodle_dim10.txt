@@ -1,0 +1,1 @@
+epoch	tr_loss	v_ppl

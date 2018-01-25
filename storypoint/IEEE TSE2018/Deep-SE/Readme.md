@@ -17,7 +17,14 @@ The result is in /classification/log
 <project name>_lstm_highway_dim<number of dimentsions>_reginphid_prefixed_lm_poolmean.txt
 e.g. appceleratorstudio_lstm_highway_dim10_reginphid_prefixed_lm_poolmean.txt
 
+To run the tool on your own data, you need to change the following to match with your filename:
 
+| Folder         | file           | variable     | Note                                                |
+|----------------|----------------|--------------|-----------------------------------------------------|
+| data           | run_script     | databaseDict | Pairs of dataset filename and its pretrain filename |
+|                |                | dataPres     | Pretrain file name                                  |
+| NCE            | exp_lstm2v_pre | dataPres     | Pretrain file name                                  |
+| classification | exp_script     | databaseDict | Pairs of dataset filename and its pretrain filename |
 
 --to be added--
 
