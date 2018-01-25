@@ -11,7 +11,7 @@ import pandas
 import numpy
 
 data_path = sys.argv[1] + '.csv'
-#data_path = 'appcelerator.csv'
+
 data = pandas.read_csv(data_path).values
 labels = data[:, 3].astype('int64')
 
