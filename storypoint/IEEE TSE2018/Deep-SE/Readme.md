@@ -19,13 +19,16 @@ e.g. appceleratorstudio_lstm_highway_dim10_reginphid_prefixed_lm_poolmean.txt
 
 To run the tool on your own data, you need to change the following to match with your filename:
 
-| Folder         | file           | variable     | Note                                                |
+| Folder         | File           | Variable     | Note                                                |
 |----------------|----------------|--------------|-----------------------------------------------------|
 | data           | run_script     | databaseDict | Pairs of dataset filename and its pretrain filename |
 |                |                | dataPres     | Pretrain file name                                  |
 | NCE            | exp_lstm2v_pre | dataPres     | Pretrain file name                                  |
 | classification | exp_script     | databaseDict | Pairs of dataset filename and its pretrain filename |
 
+--to be added--
+
+list of hyperparameters for configuration
 --to be added--
 
 ## setup instruction
@@ -40,6 +43,8 @@ List of code dependencies and install command <br>
 **cPickle**: `pip install cpickle` <br>
 **SciPy**: `pip install scipy` <br>
 **scikit-learn**: `ppip install scikit-learn` <br>
+
+Theano, keras 
 
 ## how to use
 ## configuration
