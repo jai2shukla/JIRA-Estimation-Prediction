@@ -10,8 +10,8 @@ There are three folders:
 --- step-by-step to run DEEP SE ---(LSTM+Highway)
 1. put the csv files in /data
 2. run command "python run_script.py" in /data to divide data and prepare dictionary
-3. run command "python exp_lstm2v_pre.py" in /NCE for pretraining (this step takes very very long time!!!. It can be skipped since the model has been trained.  )
-4. run commnad "python exp_script.py" in /classification for run DEEP SE
+3. run command "python exp_lstm2v_pre.py" in /NCE for pretraining (this step takes very very long time!!!. It can be skipped since the model has been trained.)
+4. run commnad "python exp_script.py" in /classification for running DEEP SE
 
 The result is in /classification/log
 <project name>_lstm_highway_dim<number of dimentsions>_reginphid_prefixed_lm_poolmean.txt
