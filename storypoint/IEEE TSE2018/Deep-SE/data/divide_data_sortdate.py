@@ -1,9 +1,8 @@
 #
-# Divide the dataset into 3 parts: training, validation and testing.
+# divide the dataset into 3 parts: training, validation and testing.
 # Each line in output contains 3 numbers indicate the set (training, validation or testing) that the datapoint belongs.
-#   Morakot Note: divide the dataset into 3 parts based on creation date (the issues must be sorted ACS based on their creation date) \
-# -- 60%, 20%, 20%, for training, validation and test set, respectively.
-# Note that issues in a CSV file must be sorted by their opened date
+#   Morakot Note: divide the dataset into 3 parts based on creation date (the issues must be sorted ACS based on their creation date)
+# 60%, 20%, 20%, for training, validation and test set
 
 import sys
 from sklearn.cross_validation import StratifiedKFold
@@ -11,7 +10,7 @@ import pandas
 import numpy
 
 data_path = sys.argv[1] + '.csv'
-
+# data_path = 'appcelerator.csv'
 data = pandas.read_csv(data_path).values
 labels = data[:, 3].astype('int64')
 
@@ -31,9 +30,9 @@ if trainingSize + validationSize + testSize == 100:
 
     divided_set = numpy.zeros((len(labels), 3)).astype('int64')
 
-    divided_set[0:numTrain-1, 0] = 1
-    divided_set[numTrain-1:numTrain+numValidation-1, 1] = 1
-    divided_set[numTrain+numValidation-1:numData, 2] = 1
+    divided_set[0:numTrain - 1, 0] = 1
+    divided_set[numTrain - 1:numTrain + numValidation - 1, 1] = 1
+    divided_set[numTrain + numValidation - 1:numData, 2] = 1
 
     f = open(sys.argv[1] + '_3sets.txt', 'w')
     f.write('train\tvalid\ttest')

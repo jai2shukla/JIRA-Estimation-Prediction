@@ -1,4 +1,3 @@
-__author__ = 'ptmin'
 
 import gzip
 import sys
